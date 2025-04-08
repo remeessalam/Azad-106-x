@@ -45,7 +45,7 @@ export const testimonials = [
     designation: "CEO, XYZ Corp.",
     // image: require("../assets/images/testimonial/1.jpg"),
     review:
-      "We were looking for a way to integrate blockchain technology into our business, and the team at [Your Company Name] delivered an exceptional solution. Their expertise in developing a secure and decentralized system has truly transformed our business operations. We’ve seen a marked improvement in transparency and efficiency. Highly recommend their services!",
+      "We were looking for a way to integrate blockchain technology into our business, and the team at Azad 106 x delivered an exceptional solution. Their expertise in developing a secure and decentralized system has truly transformed our business operations. We’ve seen a marked improvement in transparency and efficiency. Highly recommend their services!",
   },
   {
     id: 2,
@@ -53,7 +53,7 @@ export const testimonials = [
     designation: "Director of Game Development, FunTech Studios",
     // image: require("../assets/images/testimonial/2.jpg"),
     review:
-      "We approached [Your Company Name] with an idea for a mobile game, and they exceeded all our expectations. The team combined creative design with technical skill to build an engaging game that’s been well-received by users. The final product is not only visually stunning but also provides an immersive and enjoyable experience.",
+      "We approached Azad 106 x with an idea for a mobile game, and they exceeded all our expectations. The team combined creative design with technical skill to build an engaging game that’s been well-received by users. The final product is not only visually stunning but also provides an immersive and enjoyable experience.",
   },
   {
     id: 3,
@@ -61,7 +61,7 @@ export const testimonials = [
     designation: "Founder, MarketConnect",
     // image: require("../assets/images/testimonial/3.jpg"),
     review:
-      "[Your Company Name] turned our app concept into a fully functional and user-friendly product. Their team was collaborative and efficient, always ensuring our ideas were integrated into the app design. Since launching, we've seen a significant boost in user engagement and customer satisfaction. It’s been a pleasure working with them!",
+      "Azad 106 x turned our app concept into a fully functional and user-friendly product. Their team was collaborative and efficient, always ensuring our ideas were integrated into the app design. Since launching, we've seen a significant boost in user engagement and customer satisfaction. It’s been a pleasure working with them!",
   },
   {
     id: 4,
@@ -69,7 +69,7 @@ export const testimonials = [
     designation: "Chief Operating Officer, GreenTech Solutions",
     // image: require("../assets/images/testimonial/4.jpg"),
     review:
-      "Integrating Robotic Process Automation (RPA) into our business processes has been a game-changer, thanks to [Your Company Name]. Their automation solutions have streamlined operations, reduced manual errors, and saved us a tremendous amount of time. The impact on our productivity has been immediate and impressive.",
+      "Integrating Robotic Process Automation (RPA) into our business processes has been a game-changer, thanks to Azad 106 x. Their automation solutions have streamlined operations, reduced manual errors, and saved us a tremendous amount of time. The impact on our productivity has been immediate and impressive.",
   },
   {
     id: 5,
@@ -77,7 +77,7 @@ export const testimonials = [
     designation: "VP of Operations, FinScope Analytics",
     // image: require("../assets/images/testimonial/5.jpg"),
     review:
-      "The AI system that [Your Company Name] developed for us has taken our decision-making to the next level. Their team designed a solution that analyzes vast datasets and provides valuable insights in real-time, helping us improve operational efficiency and reduce costs. The results speak for themselves.",
+      "The AI system that Azad 106 x developed for us has taken our decision-making to the next level. Their team designed a solution that analyzes vast datasets and provides valuable insights in real-time, helping us improve operational efficiency and reduce costs. The results speak for themselves.",
   },
   {
     id: 6,
@@ -85,7 +85,7 @@ export const testimonials = [
     designation: "Head of Data Science, HealthPredict",
     // image: require("../assets/images/testimonial/6.jpg"),
     review:
-      "Working with [Your Company Name] on our machine learning project was an excellent experience. They helped us create a predictive model that significantly improved our forecasting abilities. The insights we've gained from the model have had a profound impact on our business strategy. Their team was always responsive and ready to offer guidance when needed.",
+      "Working with Azad 106 x on our machine learning project was an excellent experience. They helped us create a predictive model that significantly improved our forecasting abilities. The insights we've gained from the model have had a profound impact on our business strategy. Their team was always responsive and ready to offer guidance when needed.",
   },
   {
     id: 7,
@@ -93,7 +93,7 @@ export const testimonials = [
     designation: "CTO, CloudVantage",
     // image: require("../assets/images/testimonial/7.jpg"),
     review:
-      "We turned to [Your Company Name] to help us move our infrastructure to the cloud, and the process couldn’t have gone more smoothly. Their team not only helped us migrate efficiently but also optimized our cloud environment for better performance and security. We’ve seen immediate benefits in terms of scalability and cost savings.",
+      "We turned to Azad 106 x to help us move our infrastructure to the cloud, and the process couldn’t have gone more smoothly. Their team not only helped us migrate efficiently but also optimized our cloud environment for better performance and security. We’ve seen immediate benefits in terms of scalability and cost savings.",
   },
   {
     id: 8,
@@ -101,7 +101,7 @@ export const testimonials = [
     designation: "Marketing Director, GreenWorld Eco Solutions",
     // image: require("../assets/images/testimonial/8.jpg"),
     review:
-      "The website that [Your Company Name] built for us has made a world of difference for our online presence. They took the time to understand our brand, and the final product is both visually appealing and incredibly functional. We’ve seen increased traffic and conversions, and it’s become a vital tool for engaging with our customers.",
+      "The website that Azad 106 x built for us has made a world of difference for our online presence. They took the time to understand our brand, and the final product is both visually appealing and incredibly functional. We’ve seen increased traffic and conversions, and it’s become a vital tool for engaging with our customers.",
   },
   {
     id: 9,
@@ -109,7 +109,7 @@ export const testimonials = [
     designation: "Chief Data Officer, Global Insights",
     // image: require("../assets/images/testimonial/9.jpg"),
     review:
-      "The data science services provided by [Your Company Name] have been a game-changer for us. Their team helped us analyze complex data, providing valuable insights that have improved our decision-making process. The predictive models they built have allowed us to better understand customer behavior and market trends, resulting in a more targeted business approach.",
+      "The data science services provided by Azad 106 x have been a game-changer for us. Their team helped us analyze complex data, providing valuable insights that have improved our decision-making process. The predictive models they built have allowed us to better understand customer behavior and market trends, resulting in a more targeted business approach.",
   },
   {
     id: 10,
@@ -117,7 +117,7 @@ export const testimonials = [
     designation: "Customer Experience Manager, QuickServe Solutions",
     // image: require("../assets/images/testimonial/10.jpg"),
     review:
-      "Our customer support operations have been transformed by the NLP-powered solutions from [Your Company Name]. The chatbot they developed efficiently handles customer queries, allowing our team to focus on more complex issues. It’s been a major boost to our customer satisfaction and support efficiency.",
+      "Our customer support operations have been transformed by the NLP-powered solutions from Azad 106 x. The chatbot they developed efficiently handles customer queries, allowing our team to focus on more complex issues. It’s been a major boost to our customer satisfaction and support efficiency.",
   },
   {
     id: 11,
@@ -125,7 +125,7 @@ export const testimonials = [
     designation: "IT Director, TrueCloud Technologies",
     // image: require("../assets/images/testimonial/11.jpg"),
     review:
-      "Migrating to the cloud seemed daunting, but [Your Company Name] made it incredibly easy. Their team handled everything, ensuring a smooth transition with minimal disruption to our daily operations. We’re now enjoying enhanced flexibility, scalability, and performance, and couldn’t be happier with the results.",
+      "Migrating to the cloud seemed daunting, but Azad 106 x made it incredibly easy. Their team handled everything, ensuring a smooth transition with minimal disruption to our daily operations. We’re now enjoying enhanced flexibility, scalability, and performance, and couldn’t be happier with the results.",
   },
   {
     id: 12,
@@ -133,7 +133,7 @@ export const testimonials = [
     designation: "Product Manager, ProGlo Innovations",
     // image: require("../assets/images/testimonial/12.jpg"),
     review:
-      "The UI/UX design team at [Your Company Name] truly understood our vision and created an intuitive, beautiful design for our product. They paid close attention to every detail, ensuring that the user experience was seamless from start to finish. The feedback from our users has been overwhelmingly positive, and we’ve seen an increase in user engagement.",
+      "The UI/UX design team at Azad 106 x truly understood our vision and created an intuitive, beautiful design for our product. They paid close attention to every detail, ensuring that the user experience was seamless from start to finish. The feedback from our users has been overwhelmingly positive, and we’ve seen an increase in user engagement.",
   },
 ];
 
@@ -279,616 +279,6 @@ export const portfolio = {
   },
 };
 
-// complete service and details
-// export const services = [
-//   {
-//     id: 1,
-//     title: "AI Development",
-//     icon: icon1,
-//     desc: "Transform your business with AI Company's tailored AI development solutions. From automating processes to delivering actionable insights, we help you innovate, scale, and stay ahead in a dynamic digital world.",
-//     detailsPage: {
-//       banner: require("../assets/images/banners/ai-development.webp"),
-//       img1: require("../assets/images/service-details/ai-1.jpeg"),
-//       img2: require("../assets/images/service-details/ai-2.webp"),
-//       img3: require("../assets/images/service-details/ai-3.jpeg"),
-//       firstSection: `
-//         <div class="space-y-6">
-//    <div class="space-y-4">
-//     <h2 class="text-xl font-bold">
-//       Revolutionizing Business with AI
-//     </h2>
-//     <p class="">
-//       In today’s competitive landscape, Artificial Intelligence (AI) has become a transformative force, empowering businesses to streamline operations, enhance customer engagement, and make data-driven decisions.
-//     </p>
-//     <p class="">
-//       At <span class="font-bold text-secondary">AI Company</span>, we specialize in crafting tailored AI solutions that enable organizations to unlock the full potential of AI and stay ahead of the curve.
-//     </p>
-//    </div>
-//   </div>`,
-
-//       secondSection: `
-//   <div class="py-6">
-//   <div class="space-y-6">
-//     <h2 class="text-xl font-bold">
-//       Why Choose AI for Your Business?
-//     </h2>
-//     <ul class="space-y-5 list-decimal pl-6">
-//       <li>
-//         <h3 class="font-bold mb-2">Enhanced Efficiency</h3>
-//         <p class="">
-//           Automate repetitive tasks and optimize workflows to boost productivity and free your team for strategic initiatives.
-//         </p>
-//       </li>
-//       <li>
-//         <h3 class="font-bold mb-2">Data-Driven Decisions</h3>
-//         <p class="">
-//           Leverage the power of AI to process vast amounts of data, uncover actionable insights, and make precise, informed decisions.
-//         </p>
-//       </li>
-//       <li>
-//         <h3 class="font-bold mb-2">Personalized Customer Experiences</h3>
-//         <p class="">
-//           Delight your customers with AI-powered tools like chatbots and recommendation systems, delivering tailored experiences that foster loyalty.
-//         </p>
-//       </li>
-//       <li>
-//         <h3 class="font-bold mb-2">Cost Optimization</h3>
-//         <p class="">
-//           Save on operational costs with AI-driven solutions such as predictive maintenance, inventory management, and process automation.
-//         </p>
-//       </li>
-//       <li>
-//         <h3 class="font-bold mb-2">Innovation and Scalability</h3>
-//         <p class="">
-//           Open the door to new opportunities and ensure your business adapts seamlessly as markets evolve.
-//         </p>
-//       </li>
-//     </ul>
-//   </div>
-// </div>
-// `,
-//       thirdSection: `<div class="py-6">
-//   <div class="space-y-6">
-//     <h2 class="text-xl font-bold">
-//       Our Expertise in AI Development
-//     </h2>
-//     <p>
-//       At AI Company, we understand that every business is unique. That’s why we offer customized AI solutions designed to meet your specific needs and goals.
-//     </p>
-//     <ul class="space-y-5 list-disc pl-6">
-//       <li>
-//         <h3 class="font-bold mb-2">Machine Learning Models</h3>
-//         <p>
-//           Build intelligent systems that continuously learn and improve from your data.
-//         </p>
-//       </li>
-//       <li>
-//         <h3 class="font-bold mb-2">Natural Language Processing (NLP)</h3>
-//         <p>
-//           Create tools that understand and respond to human language, enhancing communication and efficiency.
-//         </p>
-//       </li>
-//       <li>
-//         <h3 class="font-bold mb-2">Computer Vision</h3>
-//         <p>
-//           Harness AI to analyze and interpret visual data for applications in healthcare, security, retail, and more.
-//         </p>
-//       </li>
-//       <li>
-//         <h3 class="font-bold mb-2">Predictive Analytics</h3>
-//         <p>
-//           Anticipate trends and outcomes with data-driven forecasting tools.
-//         </p>
-//       </li>
-//     </ul>
-//   </div>
-// </div>
-// `,
-//     },
-//   },
-//   {
-//     id: 2,
-//     title: "Web Development",
-//     icon: icon2,
-//     desc: "Elevate your online presence with AI Company’s cutting-edge web development services. We craft responsive, user-centric websites that drive engagement, enhance functionality, and fuel business growth.",
-//     detailsPage: {
-//       banner: require("../assets/images/banners/web-development.webp"),
-//       img1: require("../assets/images/service-details/web-dev-1.webp"),
-//       img2: require("../assets/images/service-details/web-dev-2.webp"),
-//       img3: require("../assets/images/service-details/web-dev-3.webp"),
-//       firstSection: `<div class="space-y-6">
-//   <div class="space-y-4">
-//     <h2 class="text-xl font-bold">
-//       Building Exceptional Websites for Your Business
-//     </h2>
-//     <p>
-//       In today’s digital-first world, a well-crafted website is essential for connecting with your audience and driving business success.
-//     </p>
-//     <p>
-//       At <span class="font-bold text-secondary">AI Company</span>, we specialize in creating custom, responsive websites that deliver a seamless user experience, enhance functionality, and fuel your growth.
-//     </p>
-//   </div>
-// </div>
-// `,
-//       secondSection: `<div class="py-6">
-//   <div class="space-y-6">
-//     <h2 class="text-xl font-bold">
-//       Why Choose AI Company for Web Development?
-//     </h2>
-//     <ul class="space-y-5 list-decimal pl-6">
-//       <li>
-//         <h3 class="font-bold mb-2">Tailored Solutions</h3>
-//         <p>
-//           Every business has unique needs. We design websites that align with your goals, ensuring a personalized approach that sets you apart from the competition.
-//         </p>
-//       </li>
-//       <li>
-//         <h3 class="font-bold mb-2">User-Centric Design</h3>
-//         <p>
-//           Our focus is on creating intuitive and visually compelling websites that engage visitors and turn them into loyal customers.
-//         </p>
-//       </li>
-//       <li>
-//         <h3 class="font-bold mb-2">Responsive & Scalable</h3>
-//         <p>
-//           With mobile traffic on the rise, we ensure your website performs flawlessly on any device, scaling to grow with your business.
-//         </p>
-//       </li>
-//       <li>
-//         <h3 class="font-bold mb-2">SEO-Optimized</h3>
-//         <p>
-//           A beautiful website is only effective if people can find it. Our development process integrates SEO best practices to help your site rank higher on search engines and reach your target audience.
-//         </p>
-//       </li>
-//     </ul>
-//   </div>
-// </div>
-// `,
-
-//       thirdSection: `<div class="py-6">
-//   <div class="space-y-6">
-//     <h2 class="text-xl font-bold">
-//       Our Web Development Process
-//     </h2>
-//     <ul class="space-y-5 list-decimal pl-6">
-//       <li>
-//         <h3 class="font-bold mb-2">Consultation</h3>
-//         <p>
-//           We begin by understanding your business, objectives, and vision.
-//         </p>
-//       </li>
-//       <li>
-//         <h3 class="font-bold mb-2">Planning</h3>
-//         <p>
-//           We create a roadmap and select the best technologies to bring your ideas to life.
-//         </p>
-//       </li>
-//       <li>
-//         <h3 class="font-bold mb-2">Design & Development</h3>
-//         <p>
-//           Our skilled developers build a high-performance website with seamless functionality.
-//         </p>
-//       </li>
-//       <li>
-//         <h3 class="font-bold mb-2">Testing</h3>
-//         <p>
-//           We rigorously test to ensure your website is bug-free and user-friendly.
-//         </p>
-//       </li>
-//       <li>
-//         <h3 class="font-bold mb-2">Launch & Support</h3>
-//         <p>
-//           After launch, we provide continuous support to keep your website running smoothly and up-to-date.
-//         </p>
-//       </li>
-//     </ul>
-//   </div>
-// </div>
-// `,
-//     },
-//   },
-//   {
-//     id: 3,
-//     title: "App Development",
-//     icon: icon3,
-//     desc: "Take your business to the next level with AI Company’s innovative app development services. We design and develop mobile applications that deliver seamless experiences, enhance user engagement, and drive growth.",
-//     detailsPage: {
-//       banner: require("../assets/images/banners/app-development.webp"),
-//       img1: require("../assets/images/service-details/app-dev-1.webp"),
-//       img2: require("../assets/images/service-details/app-dev-2.webp"),
-//       img3: require("../assets/images/service-details/app-dev-3.webp"),
-//       firstSection: `<div class="space-y-6">
-//         <div class="space-y-4">
-//           <h2 class="text-xl font-bold">
-//             Creating Impactful Mobile Apps for Your Business
-//           </h2>
-//           <p>
-//             In the mobile-first world, having an app that resonates with your audience is crucial for business success.
-//           </p>
-//           <p>
-//             At <span class="font-bold text-secondary">AI Company</span>, we specialize in developing high-quality mobile applications that provide an exceptional user experience, enhance functionality, and grow your business.
-//           </p>
-//         </div>
-//       </div>
-//       `,
-//       secondSection: `<div class="py-6">
-//         <div class="space-y-6">
-//           <h2 class="text-xl font-bold">
-//             Why Choose AI Company for App Development?
-//           </h2>
-//           <ul class="space-y-5 list-decimal pl-6">
-//             <li>
-//               <h3 class="font-bold mb-2">Custom Solutions</h3>
-//               <p>
-//                 We understand that each business is unique, and we create tailor-made apps that align with your business objectives.
-//               </p>
-//             </li>
-//             <li>
-//               <h3 class="font-bold mb-2">Cross-Platform Compatibility</h3>
-//               <p>
-//                 Our apps are designed to perform seamlessly across multiple platforms, ensuring a consistent experience for all users.
-//               </p>
-//             </li>
-//             <li>
-//               <h3 class="font-bold mb-2">User-Centered Design</h3>
-//               <p>
-//                 We focus on intuitive design and user engagement, ensuring your app offers a delightful experience for users.
-//               </p>
-//             </li>
-//             <li>
-//               <h3 class="font-bold mb-2">Scalability & Security</h3>
-//               <p>
-//                 Our apps are built to scale with your business and are secured with the latest technologies to protect your data.
-//               </p>
-//             </li>
-//           </ul>
-//         </div>
-//       </div>
-//       `,
-//       thirdSection: `<div class="py-6">
-//         <div class="space-y-6">
-//           <h2 class="text-xl font-bold">
-//             Our App Development Process
-//           </h2>
-//           <ul class="space-y-5 list-decimal pl-6">
-//             <li>
-//               <h3 class="font-bold mb-2">Consultation</h3>
-//               <p>
-//                 We start by understanding your business goals and the vision for your app.
-//               </p>
-//             </li>
-//             <li>
-//               <h3 class="font-bold mb-2">Planning</h3>
-//               <p>
-//                 We outline the features and functionalities, and select the best approach for development.
-//               </p>
-//             </li>
-//             <li>
-//               <h3 class="font-bold mb-2">Design & Development</h3>
-//               <p>
-//                 Our team develops a robust and scalable app with an exceptional user interface.
-//               </p>
-//             </li>
-//             <li>
-//               <h3 class="font-bold mb-2">Testing</h3>
-//               <p>
-//                 We ensure that the app is bug-free, reliable, and performs optimally across all devices.
-//               </p>
-//             </li>
-//             <li>
-//               <h3 class="font-bold mb-2">Launch & Support</h3>
-//               <p>
-//                 Once launched, we provide ongoing support and maintenance to ensure your app remains up-to-date and functional.
-//               </p>
-//             </li>
-//           </ul>
-//         </div>
-//       </div>
-//       `,
-//     },
-//   },
-//   {
-//     id: 4,
-//     title: "Software Development",
-//     icon: icon4,
-//     desc: "Empower your business with AI Company’s custom software development solutions. We design scalable, high-performance software tailored to streamline operations and drive growth.",
-//     detailsPage: {
-//       banner: require("../assets/images/banners/software-development.webp"),
-//       img1: require("../assets/images/service-details/software-dev-1.webp"),
-//       img2: require("../assets/images/service-details/software-dev-2.webp"),
-//       img3: require("../assets/images/service-details/software-dev-3.webp"),
-//       firstSection: `<div class="space-y-6">
-//         <div class="space-y-4">
-//           <h2 class="text-xl font-bold">
-//             Building Scalable Software for Your Business
-//           </h2>
-//           <p>
-//             In today’s fast-paced digital world, businesses require tailored software solutions that drive efficiency, productivity, and growth.
-//           </p>
-//           <p>
-//             At <span class="font-bold text-secondary">AI Company</span>, we specialize in developing high-performance, scalable software solutions that are custom-built to meet your unique business needs and challenges.
-//           </p>
-//         </div>
-//       </div>`,
-//       secondSection: `<div class="py-6">
-//         <div class="space-y-6">
-//           <h2 class="text-xl font-bold">
-//             Why Choose AI Company for Software Development?
-//           </h2>
-//           <ul class="space-y-5 list-decimal pl-6">
-//             <li>
-//               <h3 class="font-bold mb-2">Custom Solutions</h3>
-//               <p>
-//                 We design software that aligns with your specific business needs, providing you with tools that optimize operations and enhance productivity.
-//               </p>
-//             </li>
-//             <li>
-//               <h3 class="font-bold mb-2">Scalable Architecture</h3>
-//               <p>
-//                 Our solutions are built with scalability in mind, allowing your software to grow and adapt as your business evolves.
-//               </p>
-//             </li>
-//             <li>
-//               <h3 class="font-bold mb-2">Security & Reliability</h3>
-//               <p>
-//                 We prioritize security, ensuring that your software is protected against vulnerabilities while delivering reliable performance.
-//               </p>
-//             </li>
-//             <li>
-//               <h3 class="font-bold mb-2">End-to-End Development</h3>
-//               <p>
-//                 From planning and design to deployment and maintenance, we provide comprehensive software development services that cover all phases of the process.
-//               </p>
-//             </li>
-//           </ul>
-//         </div>
-//       </div>`,
-//       thirdSection: `<div class="py-6">
-//         <div class="space-y-6">
-//           <h2 class="text-xl font-bold">
-//             Our Expertise in Software Development
-//           </h2>
-//           <p>
-//             At AI Company, we combine technical expertise with business acumen to deliver software solutions that drive growth and efficiency.
-//           </p>
-//           <ul class="space-y-5 list-disc pl-6">
-//             <li>
-//               <h3 class="font-bold mb-2">Enterprise Software Solutions</h3>
-//               <p>
-//                 We create robust and scalable enterprise software systems designed to improve business processes and operations.
-//               </p>
-//             </li>
-//             <li>
-//               <h3 class="font-bold mb-2">Custom Web & Mobile Applications</h3>
-//               <p>
-//                 Develop personalized web and mobile applications tailored to your business goals and user needs.
-//               </p>
-//             </li>
-//             <li>
-//               <h3 class="font-bold mb-2">Cloud-Based Software</h3>
-//               <p>
-//                 Leverage cloud computing to build flexible and efficient software solutions that can scale with your business.
-//               </p>
-//             </li>
-//             <li>
-//               <h3 class="font-bold mb-2">Software Integration</h3>
-//               <p>
-//                 Integrate disparate systems and data sources into a unified software solution, ensuring seamless workflow and communication.
-//               </p>
-//             </li>
-//           </ul>
-//         </div>
-//       </div>`,
-//     },
-//   },
-//   {
-//     id: 5,
-//     title: "IT Consultancy and Strategy",
-//     icon: icon5,
-//     desc: "Navigate the digital landscape with confidence using AI Company’s IT consultancy and strategy services. We provide expert guidance to align technology with your business goals and drive sustainable growth.",
-//     detailsPage: {
-//       banner: require("../assets/images/banners/it-consulting.webp"),
-//       img1: require("../assets/images/service-details/it-consulting-1.webp"),
-//       img2: require("../assets/images/service-details/it-consulting-2.webp"),
-//       img3: require("../assets/images/service-details/it-consulting-3.webp"),
-//       firstSection: `
-//         <div class="space-y-6">
-//           <div class="space-y-4">
-//             <h2 class="text-xl font-bold">
-//               Aligning Technology with Your Business Goals
-//             </h2>
-//             <p>
-//               In today’s fast-evolving digital world, businesses need to leverage technology to stay ahead. Our IT consultancy and strategy services help you navigate complex technology challenges and align solutions with your business goals.
-//             </p>
-//             <p>
-//               At <span class="font-bold text-secondary">AI Company</span>, we work closely with your team to understand your unique needs, analyze current systems, and design a strategic roadmap that drives digital transformation and business growth.
-//             </p>
-//           </div>
-//         </div>
-//       `,
-//       secondSection: `
-//         <div class="py-6">
-//           <div class="space-y-6">
-//             <h2 class="text-xl font-bold">
-//               Why Choose AI Company for IT Consultancy?
-//             </h2>
-//             <ul class="space-y-5 list-decimal pl-6">
-//               <li>
-//                 <h3 class="font-bold mb-2">Expert Guidance</h3>
-//                 <p>
-//                   Our experienced consultants provide valuable insights to help you make informed decisions and avoid costly mistakes.
-//                 </p>
-//               </li>
-//               <li>
-//                 <h3 class="font-bold mb-2">Tailored Solutions</h3>
-//                 <p>
-//                   We take the time to understand your business challenges and craft personalized strategies that align with your goals.
-//                 </p>
-//               </li>
-//               <li>
-//                 <h3 class="font-bold mb-2">Digital Transformation</h3>
-//                 <p>
-//                   We guide you through digital transformation, implementing the latest technologies to enhance efficiency, productivity, and customer satisfaction.
-//                 </p>
-//               </li>
-//               <li>
-//                 <h3 class="font-bold mb-2">Cost Optimization</h3>
-//                 <p>
-//                   We help you optimize your technology investments, ensuring you get the most value from your IT infrastructure while reducing unnecessary costs.
-//                 </p>
-//               </li>
-//               <li>
-//                 <h3 class="font-bold mb-2">Scalability & Future-Proofing</h3>
-//                 <p>
-//                   Our solutions are designed to scale as your business grows and evolve with emerging trends and technologies.
-//                 </p>
-//               </li>
-//             </ul>
-//           </div>
-//         </div>
-//       `,
-//       thirdSection: `
-//         <div class="py-6">
-//           <div class="space-y-6">
-//             <h2 class="text-xl font-bold">
-//               Our IT Consultancy Process
-//             </h2>
-//             <ul class="space-y-5 list-decimal pl-6">
-//               <li>
-//                 <h3 class="font-bold mb-2">Discovery & Analysis</h3>
-//                 <p>
-//                   We begin by thoroughly understanding your business, objectives, and existing IT infrastructure.
-//                 </p>
-//               </li>
-//               <li>
-//                 <h3 class="font-bold mb-2">Strategy Design</h3>
-//                 <p>
-//                   Based on our analysis, we craft a strategic roadmap that includes technology recommendations and implementation plans.
-//                 </p>
-//               </li>
-//               <li>
-//                 <h3 class="font-bold mb-2">Implementation & Integration</h3>
-//                 <p>
-//                   We support the implementation of recommended strategies and ensure seamless integration with your current systems.
-//                 </p>
-//               </li>
-//               <li>
-//                 <h3 class="font-bold mb-2">Ongoing Support & Optimization</h3>
-//                 <p>
-//                   After implementation, we provide continuous support to optimize systems, improve performance, and ensure long-term success.
-//                 </p>
-//               </li>
-//             </ul>
-//           </div>
-//         </div>
-//       `,
-//     },
-//   },
-//   {
-//     id: 6,
-//     title: "IT Infrastructure Management",
-//     icon: icon6,
-//     desc: "Optimize your IT operations with AI Company’s comprehensive infrastructure management services. We ensure seamless, secure, and scalable solutions that support your business’s evolving needs.",
-//     detailsPage: {
-//       banner: require("../assets/images/banners/it-infrastructure.webp"),
-//       img1: require("../assets/images/service-details/it-infrastructure-1.webp"),
-//       img2: require("../assets/images/service-details/it-infrastructure-2.webp"),
-//       img3: require("../assets/images/service-details/it-infrastructure-3.webp"),
-//       firstSection: `
-//         <div class="space-y-6">
-//           <div class="space-y-4">
-//             <h2 class="text-xl font-bold">
-//               Strengthen Your Business with Robust IT Infrastructure
-//             </h2>
-//             <p>
-//               AI Company’s IT Infrastructure Management services are designed to ensure your business operates at peak efficiency. From data center management to network support, we handle the complexities of infrastructure, allowing you to focus on growth and innovation.
-//             </p>
-//             <p>
-//               Our team of experts ensures your infrastructure is always secure, reliable, and scalable, giving you the peace of mind to focus on your core business operations.
-//             </p>
-//           </div>
-//         </div>
-//       `,
-//       secondSection: `
-//         <div class="py-6">
-//           <div class="space-y-6">
-//             <h2 class="text-xl font-bold">
-//               Why Choose AI Company for IT Infrastructure Management?
-//             </h2>
-//             <ul class="space-y-5 list-decimal pl-6">
-//               <li>
-//                 <h3 class="font-bold mb-2">Scalability</h3>
-//                 <p>
-//                   We help you scale your IT infrastructure as your business grows, ensuring that your technology can handle future demands.
-//                 </p>
-//               </li>
-//               <li>
-//                 <h3 class="font-bold mb-2">Security & Compliance</h3>
-//                 <p>
-//                   Our solutions ensure that your infrastructure is secure, complying with industry standards and regulations.
-//                 </p>
-//               </li>
-//               <li>
-//                 <h3 class="font-bold mb-2">24/7 Monitoring & Support</h3>
-//                 <p>
-//                   We provide continuous monitoring and support, ensuring that your IT systems are always available and performing optimally.
-//                 </p>
-//               </li>
-//               <li>
-//                 <h3 class="font-bold mb-2">Cost Efficiency</h3>
-//                 <p>
-//                   Our managed services reduce operational costs and eliminate the need for in-house infrastructure teams, allowing you to allocate resources more effectively.
-//                 </p>
-//               </li>
-//               <li>
-//                 <h3 class="font-bold mb-2">Proactive Management</h3>
-//                 <p>
-//                   We anticipate potential issues and take proactive steps to ensure your IT infrastructure runs smoothly, reducing the risk of downtime.
-//                 </p>
-//               </li>
-//             </ul>
-//           </div>
-//         </div>
-//       `,
-//       thirdSection: `
-//         <div class="py-6">
-//           <div class="space-y-6">
-//             <h2 class="text-xl font-bold">
-//               Our IT Infrastructure Management Process
-//             </h2>
-//             <ul class="space-y-5 list-decimal pl-6">
-//               <li>
-//                 <h3 class="font-bold mb-2">Infrastructure Assessment</h3>
-//                 <p>
-//                   We begin by evaluating your existing IT infrastructure, identifying any areas that need improvement and ensuring alignment with your business needs.
-//                 </p>
-//               </li>
-//               <li>
-//                 <h3 class="font-bold mb-2">Design & Implementation</h3>
-//                 <p>
-//                   Our experts design a customized infrastructure solution tailored to your business, implementing it with minimal disruption to your daily operations.
-//                 </p>
-//               </li>
-//               <li>
-//                 <h3 class="font-bold mb-2">Ongoing Management & Support</h3>
-//                 <p>
-//                   After implementation, we provide ongoing management and support to ensure your systems remain secure, up-to-date, and efficient.
-//                 </p>
-//               </li>
-//               <li>
-//                 <h3 class="font-bold mb-2">Optimization</h3>
-//                 <p>
-//                   We continuously monitor and optimize your IT infrastructure to ensure maximum performance, cost-efficiency, and scalability.
-//                 </p>
-//               </li>
-//             </ul>
-//           </div>
-//         </div>
-//       `,
-//     },
-//   },
-// ];
-
 export const services = [
   {
     id: 1,
@@ -906,7 +296,7 @@ export const services = [
             Transform Your Business with Blockchain
           </h2>
           <p>
-            Blockchain technology is redefining industries through decentralized, secure, and transparent solutions. At <span class="font-bold text-secondary">AI Company</span>, we develop enterprise-grade blockchain applications that enhance security, streamline operations, and unlock new opportunities.
+            Blockchain technology is redefining industries through decentralized, secure, and transparent solutions. At <span class="font-bold text-secondary">Azad 106 x</span>, we develop enterprise-grade blockchain applications that enhance security, streamline operations, and unlock new opportunities.
           </p>
           <p>
             Our expertise spans smart contracts, decentralized applications, and cryptocurrency solutions designed to future-proof your business.
@@ -1003,7 +393,7 @@ export const services = [
             Crafting Immersive Gaming Experiences
           </h2>
           <p>
-            In the $200+ billion gaming industry, standing out requires both technical excellence and creative vision. At <span class="font-bold text-secondary">AI Company</span>, we develop games that captivate players across mobile, console, PC, and emerging platforms.
+            In the $200+ billion gaming industry, standing out requires both technical excellence and creative vision. At <span class="font-bold text-secondary">Azad 106 x</span>, we develop games that captivate players across mobile, console, PC, and emerging platforms.
           </p>
           <p>
             From concept to launch, we combine cutting-edge technology with engaging storytelling to create memorable gaming experiences.
@@ -1100,7 +490,7 @@ export const services = [
             Intelligent Automation for Modern Businesses
           </h2>
           <p>
-            Robotic Process Automation (RPA) is revolutionizing enterprise operations by automating repetitive tasks with digital workers. At <span class="font-bold text-secondary">AI Company</span>, we implement RPA solutions that deliver:
+            Robotic Process Automation (RPA) is revolutionizing enterprise operations by automating repetitive tasks with digital workers. At <span class="font-bold text-secondary">Azad 106 x</span>, we implement RPA solutions that deliver:
           </p>
           <ul class="list-disc pl-6">
             <li>70% reduction in process handling time</li>
@@ -1193,7 +583,7 @@ export const services = [
             AI-Powered Business Transformation
           </h2>
           <p>
-            Artificial Intelligence is revolutionizing industries by enabling data-driven decisions, automating complex processes, and creating intelligent customer experiences. At <span class="font-bold text-secondary">AI Company</span>, we develop tailored AI solutions that deliver measurable business impact.
+            Artificial Intelligence is revolutionizing industries by enabling data-driven decisions, automating complex processes, and creating intelligent customer experiences. At <span class="font-bold text-secondary">Azad 106 x</span>, we develop tailored AI solutions that deliver measurable business impact.
           </p>
           <p>
             Our AI systems help companies reduce costs by 30-50% while improving accuracy and scalability across operations.
@@ -1290,7 +680,7 @@ export const services = [
             Data-Driven Decision Making with ML
           </h2>
           <p>
-            Machine learning transforms raw data into competitive advantage. At <span class="font-bold text-secondary">AI Company</span>, we build production-ready ML models that help businesses predict outcomes, automate decisions, and discover hidden patterns.
+            Machine learning transforms raw data into competitive advantage. At <span class="font-bold text-secondary">Azad 106 x</span>, we build production-ready ML models that help businesses predict outcomes, automate decisions, and discover hidden patterns.
           </p>
           <p>
             Our models achieve 95%+ accuracy in production environments through rigorous testing and optimization.
@@ -1387,7 +777,7 @@ export const services = [
             Cloud Transformation for Digital Business
           </h2>
           <p>
-            Cloud computing delivers unprecedented flexibility, scalability, and cost efficiency. At <span class="font-bold text-secondary">AI Company</span>, we architect cloud-native solutions across AWS, Azure, and GCP that help businesses:
+            Cloud computing delivers unprecedented flexibility, scalability, and cost efficiency. At <span class="font-bold text-secondary">Azad 106 x</span>, we architect cloud-native solutions across AWS, Azure, and GCP that help businesses:
           </p>
           <ul class="list-disc pl-6">
             <li>Reduce infrastructure costs by 40-60%</li>
@@ -1486,7 +876,7 @@ export const services = [
             Modern Web Solutions for Digital Growth
           </h2>
           <p>
-            Your website is the digital face of your business. At <span class="font-bold text-secondary">AI Company</span>, we craft responsive, high-converting websites that combine stunning design with cutting-edge technology.
+            Your website is the digital face of your business. At <span class="font-bold text-secondary">Azad 106 x</span>, we craft responsive, high-converting websites that combine stunning design with cutting-edge technology.
           </p>
           <p>
             Our web solutions deliver 3x faster load times and 40% higher conversion rates than industry averages.
@@ -1583,7 +973,7 @@ export const services = [
             Unlock the Power of Your Data
           </h2>
           <p>
-            At <span class="font-bold text-secondary">AI Company</span>, we transform raw data into strategic insights using advanced analytics and machine learning. Our solutions help you forecast trends, identify patterns, and make informed decisions with confidence.
+            At <span class="font-bold text-secondary">Azad 106 x</span>, we transform raw data into strategic insights using advanced analytics and machine learning. Our solutions help you forecast trends, identify patterns, and make informed decisions with confidence.
           </p>
           <ul class="list-disc pl-6">
             <li>Boost operational efficiency by up to 35%</li>
@@ -1636,7 +1026,7 @@ export const services = [
             Language Intelligence for Smarter Systems
           </h2>
           <p>
-            At <span class="font-bold text-secondary">AI Company</span>, our NLP solutions enhance your ability to interact with and analyze human language. We integrate contextual understanding, sentiment analysis, and language generation to power smarter interfaces.
+            At <span class="font-bold text-secondary">Azad 106 x</span>, our NLP solutions enhance your ability to interact with and analyze human language. We integrate contextual understanding, sentiment analysis, and language generation to power smarter interfaces.
           </p>
           <ul class="list-disc pl-6">
             <li>Chatbots with natural dialogue flow</li>
@@ -1689,7 +1079,7 @@ export const services = [
             A Smarter Path to the Cloud
           </h2>
           <p>
-            <span class="font-bold text-secondary">AI Company</span> helps businesses migrate workloads to the cloud with robust planning, zero data loss, and minimal disruption. We tailor migration strategies to align with your business goals.
+            <span class="font-bold text-secondary">Azad 106 x</span> helps businesses migrate workloads to the cloud with robust planning, zero data loss, and minimal disruption. We tailor migration strategies to align with your business goals.
           </p>
           <ul class="list-disc pl-6">
             <li>99.99% uptime during migration</li>
@@ -1743,7 +1133,7 @@ export const services = [
           Design That Delivers Delight
         </h2>
         <p>
-          <span class="font-bold text-secondary">AI Company</span> designs digital experiences that are beautiful, intuitive, and conversion-focused. From research to prototypes, we craft every touchpoint with user empathy and brand alignment.
+          <span class="font-bold text-secondary">Azad 106 x</span> designs digital experiences that are beautiful, intuitive, and conversion-focused. From research to prototypes, we craft every touchpoint with user empathy and brand alignment.
         </p>
         <ul class="list-disc pl-6">
           <li>30% increase in user retention</li>

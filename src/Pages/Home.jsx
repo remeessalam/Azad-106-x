@@ -28,7 +28,7 @@ const Home = () => {
             data-aos="fade-up"
             className="wrapper flex flex-col text-center text-white gap-5 justify-center h-full"
           >
-            <p className="section-heading">Welcome to AI Company Pvt Ltd</p>
+            <p className="section-heading">Welcome to Azad 106 x Pvt Ltd</p>
             <h1 className="heading">Your Ultimate IT Solution Provider</h1>
             <div className="flex sm:flex-row flex-col justify-center gap-5 mt-5">
               <Link to="/about-us" className="primary-btn">
