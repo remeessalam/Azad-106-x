@@ -15,9 +15,7 @@ const Blogs = () => {
           data-aos="fade-up"
           className="space-y-4 flex flex-col md:items-center md:text-center"
         >
-          <p className="uppercase text-primary">
-            Blogs
-          </p>
+          <p className="uppercase text-black">Blogs</p>
           <h3 className="section-heading">
             Discover Cutting-Edge AI and IT Service Strategies
           </h3>

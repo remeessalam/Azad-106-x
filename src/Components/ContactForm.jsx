@@ -9,7 +9,7 @@ const ContactForm = () => {
   return (
     <div id="contact" className="wrapper pt-[5rem]">
       <div className="grid md:grid-cols-[55%_auto] gap-7">
-        <div data-aos="fade-up">
+        <div data-aos="fade-up" data-aos-offset="-800">
           <div className="space-y-4 text-start">
             <p className="uppercase text-black">request a quote</p>
             <h3 className="section-heading">
@@ -49,7 +49,11 @@ const ContactForm = () => {
             </div>
           </div>
         </div>
-        <form data-aos="fade-up" className="bg-primary p-7 space-y-3">
+        <form
+          data-aos="fade-up"
+          data-aos-offset="-800"
+          className="bg-primary p-7 space-y-3"
+        >
           <div>
             <input
               type="text"

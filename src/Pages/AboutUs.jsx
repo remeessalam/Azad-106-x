@@ -15,7 +15,7 @@ const AboutUs = () => {
       <PageBanner banner={banner} title="About Us" />
       <section className="pt-[5rem] wrapper grid md:grid-cols-2 gap-7">
         <div data-aos="fade-up" className="space-y-4">
-          <p className="uppercase text-primary text-start">Our Vision</p>
+          <p className="uppercase text-black text-start">Our Vision</p>
           <h3 className="section-heading">
             Transforming Ideas into Digital Success.
           </h3>
@@ -36,7 +36,7 @@ const AboutUs = () => {
             </Link>
             <div className="flex gap-3 sm:justify-center sm:w-fit w-full">
               <div className="bg-primary h-full aspect-square flex justify-center items-center p-3">
-                <ImPhone size={25} className="text-white" />
+                <ImPhone size={25} className="text-black" />
               </div>
               <div className="flex flex-col capitalize">
                 <p className="">Call to ask any question</p>
@@ -67,9 +67,7 @@ const AboutUs = () => {
           />
         </div>
         <div data-aos="fade-up" className="space-y-4">
-          <p className="uppercase text-primary text-center">
-            Our Mission
-          </p>
+          <p className="uppercase text-black text-center">Our Mission</p>
           <h3 className="section-heading">
             Innovating Today for a Smarter Tomorrow.
           </h3>
@@ -101,7 +99,7 @@ const AboutUs = () => {
             </Link>
             <div className="flex gap-3 sm:justify-center sm:w-fit w-full">
               <div className="bg-primary h-full aspect-square flex justify-center items-center p-3">
-                <ImPhone size={25} className="text-white" />
+                <ImPhone size={25} className="text-black" />
               </div>
               <div className="flex flex-col capitalize">
                 <p className="">Call to ask any question</p>

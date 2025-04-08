@@ -25,9 +25,7 @@ const ContactUs = () => {
           data-aos="fade-up"
           className="space-y-4 flex flex-col md:items-center md:text-center"
         >
-          <p className="uppercase text-primary">
-            contact us
-          </p>
+          <p className="uppercase text-black">contact us</p>
           <h3 className="section-heading">
             If You Have Any Query, Feel Free To Contact Us
           </h3>
@@ -36,13 +34,13 @@ const ContactUs = () => {
         <div className="pt-[3rem] grid md:grid-cols-3 gap-4">
           <div data-aos="fade-up" className="flex gap-3 sm:justify-center">
             <div className="bg-primary h-full aspect-square flex justify-center items-center p-3">
-              <ImPhone size={25} className="text-white" />
+              <ImPhone size={25} className="text-black" />
             </div>
             <div className="flex flex-col capitalize">
               <p className="">Call to ask any question</p>
               <Link
                 to={`tel:${companyDetails.phone}`}
-                className="font-semibold text-primary"
+                className="font-semibold text-black"
               >
                 {companyDetails.phone}
               </Link>
@@ -50,13 +48,13 @@ const ContactUs = () => {
           </div>
           <div data-aos="fade-up" className="flex gap-3 sm:justify-center">
             <div className="bg-primary h-full aspect-square flex justify-center items-center p-3">
-              <ImPhone size={25} className="text-white" />
+              <ImPhone size={25} className="text-black" />
             </div>
             <div className="flex flex-col capitalize">
               <p className="">Call to ask any question</p>
               <Link
                 to={`tel:${companyDetails.phone2}`}
-                className="font-semibold text-primary"
+                className="font-semibold text-black"
               >
                 {companyDetails.phone2}
               </Link>
@@ -64,13 +62,13 @@ const ContactUs = () => {
           </div>
           <div data-aos="fade-up" className="flex gap-3 sm:justify-center">
             <div className="bg-primary h-full aspect-square flex justify-center items-center p-3">
-              <IoMail size={25} className="text-white" />
+              <IoMail size={25} className="text-black" />
             </div>
             <div className="flex flex-col capitalize">
               <p className="">Email to get free Quote</p>
               <Link
                 to={`mailto:${companyDetails.email}`}
-                className="font-semibold text-primary"
+                className="font-semibold text-black"
               >
                 {companyDetails.email}
               </Link>

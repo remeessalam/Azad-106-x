@@ -9,9 +9,9 @@ const Footer = () => {
   return (
     <div className="relative bg-primary mt-[4rem]">
       <div className="wrapper text-black grid lg:grid-cols-[30%_auto] gap-5">
-        <div className="bg-white w-full lg:h-[calc(100%+2rem)] relative z-10 px-5 py-[2rem] flex flex-col gap-3 items-center">
+        <div className="bg-black w-full lg:h-[calc(100%+2rem)] relative z-10 px-5 py-[2rem] flex flex-col gap-3 items-center">
           <img src={logo} className="w-[10rem] object-contain" alt="Logo" />
-          <p className="text-black max-w-sm">
+          <p className="text-white max-w-sm">
             Empowering businesses with innovative solutions and unmatched
             expertise to drive growth and success in the digital age.
           </p>
@@ -48,21 +48,33 @@ const Footer = () => {
             </ul>
           </div>
           <div className="flex gap-4 lg:justify-end">
-            <Link className="w-7 h-7 flex hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black">
-              <FaLinkedinIn className="fill-black" size={16} strokeWidth={1} />
-            </Link>
-            <Link className="w-7 h-7 flex hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black">
-              <FaInstagram
-                className="fill-black text-secondary"
+            <Link className="w-7 h-7 group flex hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black">
+              <FaLinkedinIn
+                className="fill-black group-hover:fill-white"
                 size={16}
                 strokeWidth={1}
               />
             </Link>
-            <Link className="w-7 h-7 flex hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black">
-              <FaFacebookF className="fill-black" size={16} strokeWidth={1} />
+            <Link className="w-7 h-7 flex group hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black">
+              <FaInstagram
+                className="fill-black text-secondary group-hover:fill-white"
+                size={16}
+                strokeWidth={1}
+              />
             </Link>
-            <Link className="w-7 h-7 flex hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black">
-              <FaXTwitter className="fill-black" size={16} strokeWidth={1} />
+            <Link className="w-7 h-7 flex group hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black">
+              <FaFacebookF
+                className="fill-black group-hover:fill-white"
+                size={16}
+                strokeWidth={1}
+              />
+            </Link>
+            <Link className="w-7 h-7 flex group hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black">
+              <FaXTwitter
+                className="fill-black group-hover:fill-white"
+                size={16}
+                strokeWidth={1}
+              />
             </Link>
           </div>
         </div>

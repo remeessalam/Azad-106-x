@@ -7,15 +7,15 @@ const BlogItem = ({ item }) => {
     <Link
       to="/blogs/1"
       key={item}
-      className="keen-slider__slide space-y-2 border border-black/20 group"
+      className="keen-slider__slide space-y-2 border border-black/20 group hover:bg-primary/30"
     >
       <img
         src={item}
         alt=""
         className="w-full aspect-video group-hover:brightness-75 duration-200 transition-all"
       />
-      <div className="px-5 py-4 space-y-2">
-        <h6 className="text-lg font-semibold text-secondary line-clamp-2 group-hover:text-primary duration-200 transition-all">
+      <div className="px-5 py-4 space-y-2 ">
+        <h6 className="text-lg font-semibold  text-secondary line-clamp-2 group-hover:text-black duration-200 transition-all">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Lorem ipsum,
           dolor sit amet consectetur adipisicing elit.
         </h6>
