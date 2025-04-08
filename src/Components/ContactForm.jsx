@@ -13,7 +13,7 @@ const ContactForm = () => {
           <div className="space-y-4 text-start">
             <p className="uppercase text-black">request a quote</p>
             <h3 className="section-heading">
-              Need A Free Quote? Please Feel Free to Contact Us
+              Looking for Expert IT Solutions? Get a Free Quote Today
             </h3>
             <HrLine />
           </div>
@@ -24,15 +24,15 @@ const ContactForm = () => {
             </div>
             <div className="">
               <ImPhone size={20} className="inline -mt-2 text-black" />
-              <span className="font-bold ml-2">24 hrs telephone support</span>
+              <span className="font-bold ml-2">24/7 telephone support</span>
             </div>
           </div>
           <p className="mt-5">
-            I'd be happy to provide you with a free quote! However, I would need
-            more information about what you need a quote for. Please provide
-            details about the product or service you're interested in, any
-            specific requirements, and any other relevant information, so I can
-            assist you in generating an accurate quote.
+            Ready to take your business to the next level? Share your project
+            details with us and receive a customized, no-obligation quote
+            tailored to your needs. Whether it's web development, AI
+            integration, mobile apps, or digital strategy—our team is here to
+            help you innovate and grow with confidence.
           </p>
           <div className="mt-7 flex gap-3 sm:justify-center sm:w-fit w-full">
             <div className="bg-primary h-full aspect-square flex justify-center items-center p-3">
@@ -49,6 +49,7 @@ const ContactForm = () => {
             </div>
           </div>
         </div>
+
         <form
           data-aos="fade-up"
           data-aos-offset="-800"

@@ -17,18 +17,17 @@ const AboutUs = () => {
         <div data-aos="fade-up" className="space-y-4">
           <p className="uppercase text-black text-start">Our Vision</p>
           <h3 className="section-heading">
-            Transforming Ideas into Digital Success.
+            Shaping the Future Through Technology & Innovation
           </h3>
           <HrLine />
           <p>
-            At AI Company Pvt. Ltd., our vision is to be the global leader in
-            providing innovative IT solutions that drive digital transformation
-            and business growth. We aim to empower businesses worldwide by
-            delivering cutting-edge technologies that unlock new opportunities,
-            enhance efficiency, and create sustainable success. By fostering a
-            culture of continuous innovation and excellence, we strive to be the
-            go-to partner for organizations seeking to stay ahead in a rapidly
-            evolving digital landscape.
+            Our vision is to be the trusted global partner for digital
+            transformation, driving impact through innovative technologies. We
+            strive to empower businesses with tailored IT solutions that inspire
+            growth, efficiency, and sustainability. By embracing emerging
+            technologies like AI, Blockchain, and Data Science, we envision a
+            world where technology simplifies challenges and amplifies human
+            potential.
           </p>
           <div className="flex flex-col-reverse sm:flex-row items-center gap-5 sm:gap-10 pt-5">
             <Link to="/contact-us" className="primary-btn sm:w-fit w-full">
@@ -58,6 +57,7 @@ const AboutUs = () => {
           />
         </div>
       </section>
+
       <section className="pt-[5rem] wrapper grid md:grid-cols-2 gap-7">
         <div data-aos="fade-up" className="md:block hidden w-full h-full">
           <img
@@ -69,7 +69,7 @@ const AboutUs = () => {
         <div data-aos="fade-up" className="space-y-4">
           <p className="uppercase text-black text-center">Our Mission</p>
           <h3 className="section-heading">
-            Innovating Today for a Smarter Tomorrow.
+            Delivering Future-Ready Solutions with Integrity & Innovation
           </h3>
           <HrLine />
           <div
@@ -83,15 +83,13 @@ const AboutUs = () => {
             />
           </div>
           <p>
-            At AI Company, our mission is to drive digital excellence by
-            providing businesses with innovative, reliable, and tailored IT
-            solutions. We strive to bridge the gap between technology and
-            business success, empowering organizations to achieve their goals
-            through cutting-edge advancements in AI, web development, mobile
-            applications, and more. By fostering collaboration, embracing
-            innovation, and maintaining a client-first approach, we aim to
-            transform challenges into opportunities, enabling our clients to
-            thrive in a fast-paced, ever-evolving digital world.
+            Our mission is to provide tailored digital solutions that empower
+            businesses to scale, innovate, and lead. We are committed to
+            delivering cutting-edge services in AI, Blockchain, Data Science,
+            App and Web Development, and UI/UX Design. Through close
+            collaboration, end-to-end support, and a deep understanding of
+            client needs, we aim to turn complex challenges into meaningful
+            solutions while upholding excellence, transparency, and integrity.
           </p>
           <div className="flex flex-col-reverse sm:flex-row items-center gap-5 sm:gap-10 pt-5">
             <Link to="/contact-us" className="primary-btn sm:w-fit w-full">
@@ -114,6 +112,7 @@ const AboutUs = () => {
           </div>
         </div>
       </section>
+
       <Testimonials />
     </>
   );

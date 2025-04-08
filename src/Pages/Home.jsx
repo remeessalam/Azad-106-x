@@ -151,22 +151,23 @@ const Home = () => {
               />
             </div>
             <h3 className="section-heading">
-              Empowering Businesses Globally with Innovative IT Solutions
+              Powering Digital Success with Tailored Technology Solutions
             </h3>
             <HrLine />
             <p>
-              AI Company Pvt Ltd is an Indian IT company that specializes in
-              delivering end-to-end technology solutions to businesses across
-              the globe. From strategy to implementation, we empower
-              organizations with innovative, cutting-edge solutions that drive
-              growth, efficiency, and digital transformation.
+              We are a leading technology solutions company that helps
+              businesses thrive in the digital era. Our services span across
+              Blockchain Development, Artificial Intelligence, Data Science, App
+              and Web Development, RPA, and UI/UX Design. We believe in
+              co-creating success by offering customized solutions designed to
+              solve real-world challenges.
             </p>
             <div className="grid grid-cols-2 gap-5 pt-5">
               {[
-                "Award Winning",
-                "24/7 Support",
-                "Professional Staff",
-                "Fair Prices",
+                "Client-Centric Approach",
+                "Expert Development Team",
+                "Proven Success Stories",
+                "Integrity & Excellence",
               ].map((item) => (
                 <div key={item} className="flex items-center gap-2">
                   <GiCheckMark size={25} className="text-primary" />
@@ -203,6 +204,7 @@ const Home = () => {
           </div>
         </div>
       </section>
+
       <section className="wrapper pt-[5rem]">
         <div
           data-aos="fade-up"
@@ -210,7 +212,7 @@ const Home = () => {
         >
           <p className="uppercase text-secondary">Why Choose Us</p>
           <h3 className="section-heading">
-            We Are Here to Grow Your Business Exponentially
+            Your Strategic Partner in Digital Transformation
           </h3>
           <HrLine />
         </div>
@@ -221,11 +223,10 @@ const Home = () => {
                 <FaRegThumbsUp size={30} className="text-black" />
               </div>
               <div className="space-y-1">
-                <p className="font-bold text-lg">Best In Industry</p>
+                <p className="font-bold text-lg">Tailored Solutions</p>
                 <p>
-                  We are recognized as a leader in delivering top-notch IT
-                  solutions, trusted by businesses worldwide for our excellence
-                  and innovation.
+                  We craft custom technology strategies aligned with your unique
+                  business needs, ensuring scalable, innovative growth.
                 </p>
               </div>
             </div>
@@ -234,11 +235,10 @@ const Home = () => {
                 <FaAward size={30} className="text-black" />
               </div>
               <div className="space-y-1">
-                <p className="font-bold text-lg">Award Winning</p>
+                <p className="font-bold text-lg">Proven Track Record</p>
                 <p>
-                  With a proven track record of success, AI Company has been
-                  honored with multiple industry awards for innovation and
-                  outstanding service.
+                  With a portfolio of successful deployments across industries,
+                  we deliver solutions that consistently drive results.
                 </p>
               </div>
             </div>
@@ -259,10 +259,11 @@ const Home = () => {
                 <FaPeopleGroup size={30} className="text-black" />
               </div>
               <div className="space-y-1">
-                <p className="font-bold text-lg">Professional Staff</p>
+                <p className="font-bold text-lg">Expert Team</p>
                 <p>
-                  Our team of skilled professionals brings unmatched expertise
-                  and dedication, ensuring every project exceeds expectations.
+                  Our team of developers, strategists, and designers work
+                  closely with clients to deliver high-quality and timely
+                  results.
                 </p>
               </div>
             </div>
@@ -271,17 +272,17 @@ const Home = () => {
                 <LuHeartHandshake size={30} className="text-black" />
               </div>
               <div className="space-y-1">
-                <p className="font-bold text-lg">24/7 Support</p>
+                <p className="font-bold text-lg">End-to-End Support</p>
                 <p>
-                  Our dedicated support team is available around the clock to
-                  ensure seamless operations and quick resolution of your
-                  queries.
+                  From consultation to deployment, we offer continuous
+                  collaboration and 24/7 support to ensure your success.
                 </p>
               </div>
             </div>
           </div>
         </div>
       </section>
+
       <Services
         title="our services"
         heading="Custom IT Solutions for Your Successful Business"
