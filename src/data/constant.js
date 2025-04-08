@@ -1,12 +1,17 @@
 import logo from "../assets/logo/logo.jpeg";
 
 // services icons (website)
-import { ReactComponent as icon1 } from "../assets/svg/services/AI Development.svg";
-import { ReactComponent as icon2 } from "../assets/svg/services/Web Development.svg";
-import { ReactComponent as icon3 } from "../assets/svg/services/App Development.svg";
-import { ReactComponent as icon4 } from "../assets/svg/services/Hybrid App Development.svg";
-import { ReactComponent as icon5 } from "../assets/svg/services/IT consultancy and strategy.svg";
-import { ReactComponent as icon6 } from "../assets/svg/services/IT Infrastructure.svg";
+import { ReactComponent as icon1 } from "../assets/svg/services/blockchain.svg";
+import { ReactComponent as icon2 } from "../assets/svg/services/Game Development.svg";
+import { ReactComponent as icon3 } from "../assets/svg/services/rpa.svg";
+import { ReactComponent as icon4 } from "../assets/svg/services/ai.svg";
+import { ReactComponent as icon5 } from "../assets/svg/services/Machine Learning Solutions.svg";
+import { ReactComponent as icon6 } from "../assets/svg/services/cloud.svg";
+import { ReactComponent as icon7 } from "../assets/svg/services/Web Development.svg";
+import { ReactComponent as icon8 } from "../assets/svg/services/data.svg";
+import { ReactComponent as icon9 } from "../assets/svg/services/nlp.svg";
+import { ReactComponent as icon10 } from "../assets/svg/services/migration.svg";
+import { ReactComponent as icon11 } from "../assets/svg/services/UIUX Design.svg";
 
 // app development services icons
 import { ReactComponent as appIcon1 } from "../assets/svg/services/iOS App Development.svg";
@@ -1468,7 +1473,7 @@ export const services = [
   {
     id: 7,
     title: "Web Development",
-    icon: icon1,
+    icon: icon7,
     desc: "Build high-performance websites and web applications that deliver exceptional user experiences and drive business results.",
     detailsPage: {
       banner: require("../assets/images/banners/web-dev.jpg"),
@@ -1565,7 +1570,7 @@ export const services = [
   {
     id: 8,
     title: "Data Science Services",
-    icon: icon1,
+    icon: icon8,
     desc: "Leverage data-driven insights to boost decision-making, optimize operations, and unlock new business opportunities.",
     detailsPage: {
       banner: require("../assets/images/banners/data-science.jpg"),
@@ -1618,7 +1623,7 @@ export const services = [
   {
     id: 9,
     title: "Natural Language Processing (NLP)",
-    icon: icon1,
+    icon: icon9,
     desc: "Empower your applications to understand, interpret, and generate human language with AI-driven NLP solutions.",
     detailsPage: {
       banner: require("../assets/images/banners/nlp.jpg"),
@@ -1671,7 +1676,7 @@ export const services = [
   {
     id: 10,
     title: "Cloud Migration Services",
-    icon: icon1,
+    icon: icon10,
     desc: "Seamlessly transition from legacy systems to the cloud with minimal downtime and maximum efficiency.",
     detailsPage: {
       banner: require("../assets/images/banners/cloud-migration.jpg"),
@@ -1725,7 +1730,7 @@ export const services = [
   {
     id: 11,
     title: "UI/UX Design",
-    icon: icon1,
+    icon: icon11,
     desc: "Create intuitive, user-centered interfaces that elevate user satisfaction and boost engagement.",
     detailsPage: {
       banner: require("../assets/images/banners/uiux.jpg"),
