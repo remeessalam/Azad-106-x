@@ -20,43 +20,55 @@ const LandingHeader = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
     <div className="fixed top-0 left-0 w-full max-w-[100vw] z-[999]">
-      <div className="py-3 hidden sm:flex bg-secondary text-white">
+      <div className="py-3 hidden sm:flex bg-white text-secondary">
         <div className="wrapper w-full flex items-center justify-between gap-4 md:gap-10">
           <div className="flex flex-row items-center gap-7">
             <div className="flex items-center gap-2">
-              <IoMail size={20} className="fill-white text-secondary" />
+              <IoMail size={20} className="fill-secondary text-secondary" />
               <Link to={`mailto:${companyDetails.email}`}>
                 {companyDetails.email}
               </Link>
             </div>
             <div className="flex items-center gap-2">
-              <ImPhone size={18} className="fill-white text-secondary" />
+              <ImPhone size={18} className="fill-secondary text-secondary" />
               <Link to={`tel:${companyDetails.phone}`}>
                 {companyDetails.phone}
               </Link>
             </div>
           </div>
           <div className="flex items-center gap-4">
-            <Link className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-white">
-              <FaLinkedinIn className="fill-white" size={16} strokeWidth={1} />
-            </Link>
-            <Link className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-white">
-              <FaInstagram
-                className="fill-white text-secondary"
+            <Link className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-secondary">
+              <FaLinkedinIn
+                className="fill-secondary"
                 size={16}
                 strokeWidth={1}
               />
             </Link>
-            <Link className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-white">
-              <FaFacebookF className="fill-white" size={16} strokeWidth={1} />
+            <Link className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-secondary">
+              <FaInstagram
+                className="fill-secondary text-secondary"
+                size={16}
+                strokeWidth={1}
+              />
             </Link>
-            <Link className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-white">
-              <FaXTwitter className="fill-white" size={16} strokeWidth={1} />
+            <Link className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-secondary">
+              <FaFacebookF
+                className="fill-secondary"
+                size={16}
+                strokeWidth={1}
+              />
+            </Link>
+            <Link className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-secondary">
+              <FaXTwitter
+                className="fill-secondary"
+                size={16}
+                strokeWidth={1}
+              />
             </Link>
           </div>
         </div>
       </div>
-      <div className="py-4 bg-white">
+      <div className="py-4 bg-secondary">
         <div className="wrapper flex items-center justify-between gap-10">
           <Scroll smooth spy to="banner">
             <img
@@ -100,7 +112,7 @@ const LandingHeader = () => {
             onClick={() => setIsOpen(!isOpen)}
           >
             <Hamburger
-              color="#000000"
+              color="#ffffff"
               size="26"
               toggled={isOpen}
               rounded
@@ -113,18 +125,18 @@ const LandingHeader = () => {
         open={isOpen}
         onClose={() => setIsOpen(false)}
         direction="right"
-        className="z-10 p-2"
+        className="z-10 p-2 bg-secondary"
       >
-        <div className="mb-6 flex items-center justify-between px-[.7rem] py-[.4rem]">
-          <img
+        <div className="mb-6 flex items-center justify-end px-[.7rem] py-[.4rem] ">
+          {/* <img
             src={logo}
             width="auto"
             height="auto"
             alt="logo"
             className="h-[2.5rem] object-contain"
-          />
+          /> */}
           <button onClick={() => setIsOpen(false)}>
-            <IoClose size={28} />
+            <IoClose size={28} className="fill-black" />
           </button>
         </div>
         <div className="py-4 px-7 flex flex-col gap-4 text-black">

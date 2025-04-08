@@ -99,11 +99,11 @@ const LandingPage = ({ page }) => {
             className="bg-primary w-full text-white flex gap-3 justify-center p-6"
           >
             <div className="bg-white h-full aspect-square flex justify-center items-center p-3">
-              <BsPersonArmsUp size={50} className="text-primary" />
+              <BsPersonArmsUp size={50} className="text-black" />
             </div>
             <div className="flex flex-col gap-2">
-              <p className="font-semibold text-xl">Happy Clients</p>
-              <h3 className="heading-2">
+              <p className="font-semibold text-xl text-black">Happy Clients</p>
+              <h3 className="heading-2 !text-black">
                 <CountUp
                   end={150}
                   suffix="+"
@@ -119,10 +119,10 @@ const LandingPage = ({ page }) => {
             className="bg-[#EAF9FF] w-full text-primary flex gap-3 justify-center p-6"
           >
             <div className="bg-primary h-full aspect-square flex justify-center items-center p-3">
-              <GiCheckMark size={45} className="text-white" />
+              <GiCheckMark size={45} className="text-black" />
             </div>
             <div className="flex flex-col gap-2">
-              <p className="font-semibold text-xl">Projects Done</p>
+              <p className="font-semibold text-xl text-black">Projects Done</p>
               <h3 className="heading-2 text-secondary">
                 <CountUp
                   end={130}
@@ -136,10 +136,10 @@ const LandingPage = ({ page }) => {
           </div>
           <div
             data-aos="fade-up"
-            className="bg-primary w-full text-white flex gap-3 justify-center p-6"
+            className="bg-primary w-full text-black flex gap-3 justify-center p-6"
           >
             <div className="bg-white h-full aspect-square flex justify-center items-center p-3">
-              <FaPeopleGroup size={50} className="text-primary" />
+              <FaPeopleGroup size={50} className="text-black" />
             </div>
             <div className="flex flex-col gap-2">
               <p className="font-semibold text-xl">Tech Experts</p>
@@ -163,7 +163,7 @@ const LandingPage = ({ page }) => {
         </div>
         <div data-aos="fade-up">
           <div className="space-y-4 text-start">
-            <p className="uppercase text-primary">Book a Free Consultation</p>
+            <p className="uppercase text-black">Book a Free Consultation</p>
             <h3 className="section-heading">
               Ready to Get Started? Schedule a Free Consultation with Us
             </h3>
@@ -171,13 +171,13 @@ const LandingPage = ({ page }) => {
           </div>
           <div className="mt-5 grid sm:grid-cols-2 gap-3 sm:gap-5">
             <div className="">
-              <TiArrowBack size={25} className="inline -mt-2 text-primary" />
+              <TiArrowBack size={25} className="inline -mt-2 text-black" />
               <span className="font-bold ml-2">
                 Consultation within 24 hours
               </span>
             </div>
             <div className="">
-              <ImPhone size={20} className="inline -mt-2 text-primary" />
+              <ImPhone size={20} className="inline -mt-2 text-black" />
               <span className="font-bold ml-2">
                 Free phone consultation available
               </span>
@@ -196,7 +196,7 @@ const LandingPage = ({ page }) => {
       <section id="about" className="pt-[5rem]">
         <div className="wrapper grid md:grid-cols-2 gap-7">
           <div data-aos="fade-up" className="space-y-4">
-            <p className="uppercase text-primary text-center md:text-start">
+            <p className="uppercase text-black text-center md:text-start">
               {isWeb ? "Web Development" : "App Development"}
             </p>
             <div className="md:hidden flex flex-col pb-3">
@@ -225,7 +225,7 @@ const LandingPage = ({ page }) => {
                 "Fair Prices",
               ].map((item) => (
                 <div key={item} className="flex items-center gap-2">
-                  <GiCheckMark size={25} className="text-primary" />
+                  <GiCheckMark size={25} className="text-black" />
                   <p>{item}</p>
                 </div>
               ))}
@@ -233,7 +233,7 @@ const LandingPage = ({ page }) => {
             <div className="flex flex-col-reverse sm:flex-row items-center gap-5 sm:gap-10 pt-5">
               <div className="flex gap-3 sm:justify-center sm:w-fit w-full">
                 <div className="bg-primary h-full aspect-square flex justify-center items-center p-3">
-                  <BiSupport size={25} className="text-white" />
+                  <BiSupport size={25} className="text-black" />
                 </div>
                 <div className="flex flex-col">
                   <p className="">Call Us Now</p>
@@ -261,7 +261,7 @@ const LandingPage = ({ page }) => {
           data-aos="fade-up"
           className="space-y-4 flex flex-col sm:items-center sm:text-center max-w-2xl mx-auto"
         >
-          <p className="uppercase text-primary">Why Choose Us</p>
+          <p className="uppercase text-black">Why Choose Us</p>
           <h3 className="section-heading">
             We Are Here to Grow Your Business Exponentially
           </h3>
@@ -271,7 +271,7 @@ const LandingPage = ({ page }) => {
           <div data-aos="fade-up" className="flex flex-col gap-7">
             <div className="space-y-3">
               <div className="bg-primary w-[3.5rem] aspect-square flex justify-center items-center p-3">
-                <FaRegThumbsUp size={30} className="text-white" />
+                <FaRegThumbsUp size={30} className="text-black" />
               </div>
               <div className="space-y-1">
                 <p className="font-bold text-lg">Best In Industry</p>
@@ -284,7 +284,7 @@ const LandingPage = ({ page }) => {
             </div>
             <div className="space-y-3">
               <div className="bg-primary w-[3.5rem] aspect-square flex justify-center items-center p-3">
-                <FaAward size={30} className="text-white" />
+                <FaAward size={30} className="text-black" />
               </div>
               <div className="space-y-1">
                 <p className="font-bold text-lg">Award Winning</p>
@@ -309,7 +309,7 @@ const LandingPage = ({ page }) => {
           <div data-aos="fade-up" className="flex flex-col gap-7">
             <div className="space-y-3">
               <div className="bg-primary w-[3.5rem] aspect-square flex justify-center items-center p-3">
-                <FaPeopleGroup size={30} className="text-white" />
+                <FaPeopleGroup size={30} className="text-black" />
               </div>
               <div className="space-y-1">
                 <p className="font-bold text-lg">Professional Staff</p>
@@ -321,7 +321,7 @@ const LandingPage = ({ page }) => {
             </div>
             <div className="space-y-3">
               <div className="bg-primary w-[3.5rem] aspect-square flex justify-center items-center p-3">
-                <LuHeartHandshake size={30} className="text-white" />
+                <LuHeartHandshake size={30} className="text-black" />
               </div>
               <div className="space-y-1">
                 <p className="font-bold text-lg">24/7 Support</p>

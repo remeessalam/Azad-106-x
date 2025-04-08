@@ -53,7 +53,7 @@ const Header = () => {
                 strokeWidth={1}
               />
             </Link>
-            <Link className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-whsecondaryite">
+            <Link className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-secondary">
               <FaFacebookF
                 className="fill-secondary"
                 size={16}
@@ -96,7 +96,7 @@ const Header = () => {
             onClick={() => setIsOpen(!isOpen)}
           >
             <Hamburger
-              color="#000000"
+              color="#ffffff"
               size="26"
               toggled={isOpen}
               rounded
@@ -111,14 +111,14 @@ const Header = () => {
         direction="right"
         className="z-10 p-2"
       >
-        <div className="mb-6 flex items-center justify-between px-[.7rem] py-[.4rem]">
-          <img
+        <div className="mb-6 flex items-center justify-end px-[.7rem] py-[.4rem]">
+          {/* <img
             src={logo}
             width="auto"
             height="auto"
             alt="logo"
             className="h-[2.5rem] object-contain"
-          />
+          /> */}
           <button onClick={() => setIsOpen(false)}>
             <IoClose size={28} />
           </button>

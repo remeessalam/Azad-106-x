@@ -15,7 +15,7 @@ const Portfolio = ({ page }) => {
             data-aos="fade-up"
             className="space-y-4 flex flex-col items-center text-center"
           >
-            <p className="uppercase text-primary text-center md:text-start">
+            <p className="uppercase text-black text-center md:text-start">
               Portfolio
             </p>
             <h3 className="section-heading">Few of our projects</h3>
