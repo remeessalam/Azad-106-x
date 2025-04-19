@@ -30,9 +30,9 @@ import { AiFillAppstore } from "react-icons/ai";
 export { logo };
 
 export const companyDetails = {
-  email: "xyz@example.com",
-  phone: "+91-7809896339",
-  phone2: "+91-9596864769",
+  email: "stoneageai73@gmail.com",
+  phone: "+91-8456895594",
+  phone2: "+91-7978995594",
   address: `Sastri Nagar 1st lane
 Near utkal hall,
 Berhampur, Odisha`,

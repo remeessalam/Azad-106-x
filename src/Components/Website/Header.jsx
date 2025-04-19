@@ -73,7 +73,11 @@ const Header = () => {
       <div className="py-4 bg-secondary">
         <div className="wrapper flex items-center justify-between gap-10">
           <Link to="/">
-            <img src={logo} alt="logo" className="w-[6rem] object-contain" />
+            <img
+              src={logo}
+              alt="logo"
+              className="w-[7rem] scale-110 object-contain"
+            />
           </Link>
           <div className="hidden md:flex items-center gap-7">
             {websiteLinks.map((link) => (

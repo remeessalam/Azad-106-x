@@ -76,7 +76,7 @@ const Home = () => {
         <div className="grid md:grid-cols-3">
           <div
             data-aos="fade-up"
-            className="bg-primary w-full text-white flex gap-3 justify-center p-6"
+            className="bg-primary w-full text-black flex gap-3 justify-center p-6"
           >
             <div className="bg-black h-full aspect-square flex justify-center items-center p-3">
               <BsPersonArmsUp size={50} className="text-primary" />
@@ -116,7 +116,7 @@ const Home = () => {
           </div>
           <div
             data-aos="fade-up"
-            className="bg-primary w-full text-white flex gap-3 justify-center p-6"
+            className="bg-primary w-full text-black flex gap-3 justify-center p-6"
           >
             <div className="bg-black h-full aspect-square flex justify-center items-center p-3">
               <FaPeopleGroup size={50} className="text-primary" />
@@ -140,7 +140,7 @@ const Home = () => {
       <section className="pt-[5rem]">
         <div className="wrapper grid md:grid-cols-2 gap-7">
           <div data-aos="fade-up" className="space-y-4">
-            <p className="uppercase text-secondary text-center md:text-start">
+            <p className="uppercase text-white text-center md:text-start">
               About us
             </p>
             <div className="md:hidden flex flex-col pb-3">
@@ -210,7 +210,7 @@ const Home = () => {
           data-aos="fade-up"
           className="space-y-4 flex flex-col sm:items-center sm:text-center max-w-2xl mx-auto"
         >
-          <p className="uppercase text-secondary">Why Choose Us</p>
+          <p className="uppercase text-white">Why Choose Us</p>
           <h3 className="section-heading">
             Your Strategic Partner in Digital Transformation
           </h3>

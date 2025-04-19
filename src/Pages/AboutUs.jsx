@@ -15,7 +15,7 @@ const AboutUs = () => {
       <PageBanner banner={banner} title="About Us" />
       <section className="pt-[5rem] wrapper grid md:grid-cols-2 gap-7">
         <div data-aos="fade-up" className="space-y-4">
-          <p className="uppercase text-black text-start">Our Vision</p>
+          <p className="uppercase  text-start">Our Vision</p>
           <h3 className="section-heading">
             Shaping the Future Through Technology & Innovation
           </h3>
@@ -67,7 +67,7 @@ const AboutUs = () => {
           />
         </div>
         <div data-aos="fade-up" className="space-y-4">
-          <p className="uppercase text-black text-center">Our Mission</p>
+          <p className="uppercase  text-center">Our Mission</p>
           <h3 className="section-heading">
             Delivering Future-Ready Solutions with Integrity & Innovation
           </h3>

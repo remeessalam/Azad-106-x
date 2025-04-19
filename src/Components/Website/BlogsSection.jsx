@@ -75,7 +75,7 @@ const BlogsSection = () => {
         data-aos="fade-up"
         className="space-y-4 flex flex-col sm:items-center sm:text-center max-w-2xl mx-auto"
       >
-        <p className="uppercase text-black">latest blogs</p>
+        <p className="uppercase ">latest blogs</p>
         <h3 className="section-heading">
           Read The Latest Articles from Our Blog Post
         </h3>

@@ -25,7 +25,7 @@ const ContactUs = () => {
           data-aos="fade-up"
           className="space-y-4 flex flex-col md:items-center md:text-center"
         >
-          <p className="uppercase text-black">contact us</p>
+          <p className="uppercase ">contact us</p>
           <h3 className="section-heading">
             If You Have Any Query, Feel Free To Contact Us
           </h3>
@@ -40,7 +40,7 @@ const ContactUs = () => {
               <p className="">Call to ask any question</p>
               <Link
                 to={`tel:${companyDetails.phone}`}
-                className="font-semibold text-black"
+                className="font-semibold "
               >
                 {companyDetails.phone}
               </Link>
@@ -54,7 +54,7 @@ const ContactUs = () => {
               <p className="">Call to ask any question</p>
               <Link
                 to={`tel:${companyDetails.phone2}`}
-                className="font-semibold text-black"
+                className="font-semibold "
               >
                 {companyDetails.phone2}
               </Link>
@@ -68,7 +68,7 @@ const ContactUs = () => {
               <p className="">Email to get free Quote</p>
               <Link
                 to={`mailto:${companyDetails.email}`}
-                className="font-semibold text-black"
+                className="font-semibold "
               >
                 {companyDetails.email}
               </Link>

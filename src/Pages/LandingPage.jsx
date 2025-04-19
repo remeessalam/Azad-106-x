@@ -163,7 +163,7 @@ const LandingPage = ({ page }) => {
         </div>
         <div data-aos="fade-up">
           <div className="space-y-4 text-start">
-            <p className="uppercase text-black">Book a Free Consultation</p>
+            <p className="uppercase ">Book a Free Consultation</p>
             <h3 className="section-heading">
               Ready to Get Started? Schedule a Free Consultation with Us
             </h3>
@@ -171,13 +171,13 @@ const LandingPage = ({ page }) => {
           </div>
           <div className="mt-5 grid sm:grid-cols-2 gap-3 sm:gap-5">
             <div className="">
-              <TiArrowBack size={25} className="inline -mt-2 text-black" />
+              <TiArrowBack size={25} className="inline -mt-2 " />
               <span className="font-bold ml-2">
                 Consultation within 24 hours
               </span>
             </div>
             <div className="">
-              <ImPhone size={20} className="inline -mt-2 text-black" />
+              <ImPhone size={20} className="inline -mt-2 " />
               <span className="font-bold ml-2">
                 Free phone consultation available
               </span>
@@ -196,7 +196,7 @@ const LandingPage = ({ page }) => {
       <section id="about" className="pt-[5rem]">
         <div className="wrapper grid md:grid-cols-2 gap-7">
           <div data-aos="fade-up" className="space-y-4">
-            <p className="uppercase text-black text-center md:text-start">
+            <p className="uppercase  text-center md:text-start">
               {isWeb ? "Web Development" : "App Development"}
             </p>
             <div className="md:hidden flex flex-col pb-3">
@@ -225,7 +225,7 @@ const LandingPage = ({ page }) => {
                 "Fair Prices",
               ].map((item) => (
                 <div key={item} className="flex items-center gap-2">
-                  <GiCheckMark size={25} className="text-black" />
+                  <GiCheckMark size={25} className="" />
                   <p>{item}</p>
                 </div>
               ))}
@@ -261,7 +261,7 @@ const LandingPage = ({ page }) => {
           data-aos="fade-up"
           className="space-y-4 flex flex-col sm:items-center sm:text-center max-w-2xl mx-auto"
         >
-          <p className="uppercase text-black">Why Choose Us</p>
+          <p className="uppercase ">Why Choose Us</p>
           <h3 className="section-heading">
             We Are Here to Grow Your Business Exponentially
           </h3>

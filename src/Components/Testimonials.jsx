@@ -55,7 +55,7 @@ const Testimonials = () => {
         data-aos="fade-up"
         className="space-y-4 flex flex-col sm:items-center sm:text-center max-w-2xl mx-auto"
       >
-        <p className="uppercase text-black">testimonials</p>
+        <p className="uppercase ">testimonials</p>
         <h3 className="section-heading">
           What Our Clients Say About Our Digital Services
         </h3>
@@ -72,7 +72,7 @@ const Testimonials = () => {
                 alt="Testimonial"
               /> */}
               <div className="space-y-1">
-                <p className="font-bold text-black">{item.name}</p>
+                <p className="font-bold ">{item.name}</p>
                 <p>{item.designation}</p>
               </div>
             </div>

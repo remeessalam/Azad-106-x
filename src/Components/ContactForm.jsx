@@ -11,7 +11,7 @@ const ContactForm = () => {
       <div className="grid md:grid-cols-[55%_auto] gap-7">
         <div data-aos="fade-up" data-aos-offset="-800">
           <div className="space-y-4 text-start">
-            <p className="uppercase text-black">request a quote</p>
+            <p className="uppercase ">request a quote</p>
             <h3 className="section-heading">
               Looking for Expert IT Solutions? Get a Free Quote Today
             </h3>
@@ -19,11 +19,11 @@ const ContactForm = () => {
           </div>
           <div className="mt-5 grid sm:grid-cols-2 gap-3 sm:gap-5">
             <div className="">
-              <TiArrowBack size={25} className="inline -mt-2 text-black" />
+              <TiArrowBack size={25} className="inline -mt-2 " />
               <span className="font-bold ml-2">Reply within 24 hours</span>
             </div>
             <div className="">
-              <ImPhone size={20} className="inline -mt-2 text-black" />
+              <ImPhone size={20} className="inline -mt-2 " />
               <span className="font-bold ml-2">24/7 telephone support</span>
             </div>
           </div>
