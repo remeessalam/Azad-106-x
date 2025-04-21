@@ -62,7 +62,7 @@ const ContactForm2 = () => {
   return (
     <form
       data-aos="fade-up"
-      className="grid grid-cols-1 gap-5"
+      className="grid grid-cols-1 gap-5 text-black"
       onSubmit={handleSubmit(handleFormSubmit)}
     >
       <div className="grid lg:grid-cols-2 gap-5">

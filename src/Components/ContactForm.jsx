@@ -110,7 +110,7 @@ const ContactForm = () => {
         <form
           data-aos="fade-up"
           data-aos-offset="-800"
-          className="bg-primary p-7 space-y-3"
+          className="bg-primary p-7 space-y-3 text-black"
           onSubmit={handleSubmit(handleFormSubmit)}
         >
           <div>
