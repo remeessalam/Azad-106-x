@@ -1,11 +1,68 @@
-import React from "react";
+import React, { useState } from "react";
 import HrLine from "./HrLine";
 import { TiArrowBack } from "react-icons/ti";
 import { ImPhone } from "react-icons/im";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { companyDetails } from "../data/constant";
+import { useForm } from "react-hook-form";
+import toast from "react-hot-toast";
 
 const ContactForm = () => {
+  const {
+    register,
+    handleSubmit,
+    formState: { errors },
+    reset,
+  } = useForm();
+  const navigate = useNavigate();
+  const [spinner, setSpinner] = useState(false);
+
+  const handleFormSubmit = async (values) => {
+    if (spinner) {
+      return;
+    }
+    setSpinner(true);
+
+    var emailBody = "Full Name: " + values.fullName + "\n\n";
+    emailBody += "Email: " + values.email + "\n\n";
+    emailBody += "Subject: " + values.subject + "\n\n";
+    emailBody += "Message: " + values.message + "\n\n";
+
+    // Construct the request payload
+    var payload = {
+      // to: "remeesreme4u@gmail.com",
+      to: companyDetails.email,
+      name: "Brainways",
+      subject: "New Lead Form Submission",
+      body: emailBody,
+    };
+
+    await fetch(
+      "https://send-mail-redirect-boostmysites.vercel.app/send-email",
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(payload),
+      }
+    )
+      .then((response) => response.json())
+      .then((res) => {
+        if (res.error) {
+          toast.error(res.error);
+        } else {
+          toast.success("Email sent successfully");
+          reset();
+          navigate("/thank-you");
+        }
+      })
+      .catch((error) => {
+        toast.error(error.message);
+      })
+      .finally(() => setSpinner(false));
+  };
+
   return (
     <div id="contact" className="wrapper pt-[5rem]">
       <div className="grid md:grid-cols-[55%_auto] gap-7">
@@ -54,37 +111,56 @@ const ContactForm = () => {
           data-aos="fade-up"
           data-aos-offset="-800"
           className="bg-primary p-7 space-y-3"
+          onSubmit={handleSubmit(handleFormSubmit)}
         >
           <div>
             <input
               type="text"
+              {...register("fullName", { required: true })}
               className="w-full p-2 bg-primary-5 outline-none"
               placeholder="Full Name*"
             />
+            {errors.fullName && (
+              <span className="text-red-600 text-sm">
+                Full Name is required
+              </span>
+            )}
           </div>
           <div>
             <input
               type="email"
+              {...register("email", { required: true })}
               className="w-full p-2 bg-primary-5 outline-none"
               placeholder="Email*"
             />
+            {errors.email && (
+              <span className="text-red-600 text-sm">Email is required</span>
+            )}
           </div>
           <div>
             <input
               type="text"
+              {...register("subject", { required: true })}
               className="w-full p-2 bg-primary-5 outline-none"
               placeholder="Subject*"
             />
+            {errors.subject && (
+              <span className="text-red-600 text-sm">Subject is required</span>
+            )}
           </div>
           <div>
             <textarea
               rows="5"
+              {...register("message", { required: true })}
               className="w-full p-2 bg-primary-5 outline-none"
               placeholder="Message*"
             />
+            {errors.message && (
+              <span className="text-red-600 text-sm">Message is required</span>
+            )}
           </div>
-          <button type="button" className="secondary-btn w-full">
-            Request A Quote
+          <button type="submit" className="secondary-btn w-full">
+            {spinner ? "Sending..." : "Request A Quote"}
           </button>
         </form>
       </div>

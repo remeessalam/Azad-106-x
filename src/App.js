@@ -9,6 +9,8 @@ import ScrollToTop from "./Components/ScrollToTop";
 
 import AOS from "aos";
 import "aos/dist/aos.css";
+import { Toaster } from "react-hot-toast";
+import ThankYou from "./Components/Website/ThankYou";
 
 const Home = lazy(() => import("./Pages/Home"));
 const AboutUs = lazy(() => import("./Pages/AboutUs"));
@@ -31,6 +33,15 @@ function App() {
     <BrowserRouter>
       <ScrollToTopButton />
       <ScrollToTop />
+      <Toaster
+        position="top-bottom"
+        toastOptions={{
+          style: {
+            background: "#010C2A",
+            color: "#ffffff",
+          },
+        }}
+      />
       <SpinnerContextProvider>
         <Suspense fallback={<LoadingSpinner />}>
           <Routes>
@@ -43,6 +54,7 @@ function App() {
               <Route path="blogs" element={<Blogs />} />
               <Route path="blogs/:title" element={<BlogDetails />} />
               <Route path="contact-us" element={<ContactUs />} />
+              <Route path="thank-you" element={<ThankYou />} />
             </Route>
 
             <Route path="/" element={<LandingPageLayout />}>
