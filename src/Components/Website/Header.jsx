@@ -124,7 +124,7 @@ const Header = () => {
             className="h-[2.5rem] object-contain"
           /> */}
           <button onClick={() => setIsOpen(false)}>
-            <IoClose size={28} />
+            <IoClose size={28} className="text-black" />
           </button>
         </div>
         <div className="py-4 px-7 flex flex-col gap-4 text-black">
