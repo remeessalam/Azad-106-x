@@ -28,7 +28,7 @@ const ContactForm2 = () => {
     var payload = {
       // to: "remeesreme4u@gmail.com",
       to: companyDetails.email,
-      name: "Brainways",
+      name: "A z a d 1 0 6 x",
       subject: "New Lead Form Submission",
       body: emailBody,
     };
