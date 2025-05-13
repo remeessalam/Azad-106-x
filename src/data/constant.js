@@ -1,4 +1,4 @@
-import logo from "../assets/logo/logo.jpeg";
+import logo from "../assets/logo/logo.webp";
 
 // services icons (website)
 import { ReactComponent as icon1 } from "../assets/svg/services/blockchain.svg";
@@ -45,7 +45,7 @@ export const testimonials = [
     designation: "CEO, XYZ Corp.",
     // image: require("../assets/images/testimonial/1.jpg"),
     review:
-      "We were looking for a way to integrate blockchain technology into our business, and the team at Azad 106 x delivered an exceptional solution. Their expertise in developing a secure and decentralized system has truly transformed our business operations. We’ve seen a marked improvement in transparency and efficiency. Highly recommend their services!",
+      "We were looking for a way to integrate blockchain technology into our business, and the team at CybertechieAzadSol delivered an exceptional solution. Their expertise in developing a secure and decentralized system has truly transformed our business operations. We’ve seen a marked improvement in transparency and efficiency. Highly recommend their services!",
   },
   {
     id: 2,
@@ -53,7 +53,7 @@ export const testimonials = [
     designation: "Director of Game Development, FunTech Studios",
     // image: require("../assets/images/testimonial/2.jpg"),
     review:
-      "We approached Azad 106 x with an idea for a mobile game, and they exceeded all our expectations. The team combined creative design with technical skill to build an engaging game that’s been well-received by users. The final product is not only visually stunning but also provides an immersive and enjoyable experience.",
+      "We approached CybertechieAzadSol with an idea for a mobile game, and they exceeded all our expectations. The team combined creative design with technical skill to build an engaging game that’s been well-received by users. The final product is not only visually stunning but also provides an immersive and enjoyable experience.",
   },
   {
     id: 3,
@@ -61,7 +61,7 @@ export const testimonials = [
     designation: "Founder, MarketConnect",
     // image: require("../assets/images/testimonial/3.jpg"),
     review:
-      "Azad 106 x turned our app concept into a fully functional and user-friendly product. Their team was collaborative and efficient, always ensuring our ideas were integrated into the app design. Since launching, we've seen a significant boost in user engagement and customer satisfaction. It’s been a pleasure working with them!",
+      "CybertechieAzadSol turned our app concept into a fully functional and user-friendly product. Their team was collaborative and efficient, always ensuring our ideas were integrated into the app design. Since launching, we've seen a significant boost in user engagement and customer satisfaction. It’s been a pleasure working with them!",
   },
   {
     id: 4,
@@ -69,7 +69,7 @@ export const testimonials = [
     designation: "Chief Operating Officer, GreenTech Solutions",
     // image: require("../assets/images/testimonial/4.jpg"),
     review:
-      "Integrating Robotic Process Automation (RPA) into our business processes has been a game-changer, thanks to Azad 106 x. Their automation solutions have streamlined operations, reduced manual errors, and saved us a tremendous amount of time. The impact on our productivity has been immediate and impressive.",
+      "Integrating Robotic Process Automation (RPA) into our business processes has been a game-changer, thanks to CybertechieAzadSol. Their automation solutions have streamlined operations, reduced manual errors, and saved us a tremendous amount of time. The impact on our productivity has been immediate and impressive.",
   },
   {
     id: 5,
@@ -77,7 +77,7 @@ export const testimonials = [
     designation: "VP of Operations, FinScope Analytics",
     // image: require("../assets/images/testimonial/5.jpg"),
     review:
-      "The AI system that Azad 106 x developed for us has taken our decision-making to the next level. Their team designed a solution that analyzes vast datasets and provides valuable insights in real-time, helping us improve operational efficiency and reduce costs. The results speak for themselves.",
+      "The AI system that CybertechieAzadSol developed for us has taken our decision-making to the next level. Their team designed a solution that analyzes vast datasets and provides valuable insights in real-time, helping us improve operational efficiency and reduce costs. The results speak for themselves.",
   },
   {
     id: 6,
@@ -85,7 +85,7 @@ export const testimonials = [
     designation: "Head of Data Science, HealthPredict",
     // image: require("../assets/images/testimonial/6.jpg"),
     review:
-      "Working with Azad 106 x on our machine learning project was an excellent experience. They helped us create a predictive model that significantly improved our forecasting abilities. The insights we've gained from the model have had a profound impact on our business strategy. Their team was always responsive and ready to offer guidance when needed.",
+      "Working with CybertechieAzadSol on our machine learning project was an excellent experience. They helped us create a predictive model that significantly improved our forecasting abilities. The insights we've gained from the model have had a profound impact on our business strategy. Their team was always responsive and ready to offer guidance when needed.",
   },
   {
     id: 7,
@@ -93,7 +93,7 @@ export const testimonials = [
     designation: "CTO, CloudVantage",
     // image: require("../assets/images/testimonial/7.jpg"),
     review:
-      "We turned to Azad 106 x to help us move our infrastructure to the cloud, and the process couldn’t have gone more smoothly. Their team not only helped us migrate efficiently but also optimized our cloud environment for better performance and security. We’ve seen immediate benefits in terms of scalability and cost savings.",
+      "We turned to CybertechieAzadSol to help us move our infrastructure to the cloud, and the process couldn’t have gone more smoothly. Their team not only helped us migrate efficiently but also optimized our cloud environment for better performance and security. We’ve seen immediate benefits in terms of scalability and cost savings.",
   },
   {
     id: 8,
@@ -101,7 +101,7 @@ export const testimonials = [
     designation: "Marketing Director, GreenWorld Eco Solutions",
     // image: require("../assets/images/testimonial/8.jpg"),
     review:
-      "The website that Azad 106 x built for us has made a world of difference for our online presence. They took the time to understand our brand, and the final product is both visually appealing and incredibly functional. We’ve seen increased traffic and conversions, and it’s become a vital tool for engaging with our customers.",
+      "The website that CybertechieAzadSol built for us has made a world of difference for our online presence. They took the time to understand our brand, and the final product is both visually appealing and incredibly functional. We’ve seen increased traffic and conversions, and it’s become a vital tool for engaging with our customers.",
   },
   {
     id: 9,
@@ -109,7 +109,7 @@ export const testimonials = [
     designation: "Chief Data Officer, Global Insights",
     // image: require("../assets/images/testimonial/9.jpg"),
     review:
-      "The data science services provided by Azad 106 x have been a game-changer for us. Their team helped us analyze complex data, providing valuable insights that have improved our decision-making process. The predictive models they built have allowed us to better understand customer behavior and market trends, resulting in a more targeted business approach.",
+      "The data science services provided by CybertechieAzadSol have been a game-changer for us. Their team helped us analyze complex data, providing valuable insights that have improved our decision-making process. The predictive models they built have allowed us to better understand customer behavior and market trends, resulting in a more targeted business approach.",
   },
   {
     id: 10,
@@ -117,7 +117,7 @@ export const testimonials = [
     designation: "Customer Experience Manager, QuickServe Solutions",
     // image: require("../assets/images/testimonial/10.jpg"),
     review:
-      "Our customer support operations have been transformed by the NLP-powered solutions from Azad 106 x. The chatbot they developed efficiently handles customer queries, allowing our team to focus on more complex issues. It’s been a major boost to our customer satisfaction and support efficiency.",
+      "Our customer support operations have been transformed by the NLP-powered solutions from CybertechieAzadSol. The chatbot they developed efficiently handles customer queries, allowing our team to focus on more complex issues. It’s been a major boost to our customer satisfaction and support efficiency.",
   },
   {
     id: 11,
@@ -125,7 +125,7 @@ export const testimonials = [
     designation: "IT Director, TrueCloud Technologies",
     // image: require("../assets/images/testimonial/11.jpg"),
     review:
-      "Migrating to the cloud seemed daunting, but Azad 106 x made it incredibly easy. Their team handled everything, ensuring a smooth transition with minimal disruption to our daily operations. We’re now enjoying enhanced flexibility, scalability, and performance, and couldn’t be happier with the results.",
+      "Migrating to the cloud seemed daunting, but CybertechieAzadSol made it incredibly easy. Their team handled everything, ensuring a smooth transition with minimal disruption to our daily operations. We’re now enjoying enhanced flexibility, scalability, and performance, and couldn’t be happier with the results.",
   },
   {
     id: 12,
@@ -133,7 +133,7 @@ export const testimonials = [
     designation: "Product Manager, ProGlo Innovations",
     // image: require("../assets/images/testimonial/12.jpg"),
     review:
-      "The UI/UX design team at Azad 106 x truly understood our vision and created an intuitive, beautiful design for our product. They paid close attention to every detail, ensuring that the user experience was seamless from start to finish. The feedback from our users has been overwhelmingly positive, and we’ve seen an increase in user engagement.",
+      "The UI/UX design team at CybertechieAzadSol truly understood our vision and created an intuitive, beautiful design for our product. They paid close attention to every detail, ensuring that the user experience was seamless from start to finish. The feedback from our users has been overwhelmingly positive, and we’ve seen an increase in user engagement.",
   },
 ];
 
@@ -296,7 +296,7 @@ export const services = [
             Transform Your Business with Blockchain
           </h2>
           <p>
-            Blockchain technology is redefining industries through decentralized, secure, and transparent solutions. At <span class="font-bold text-secondary">Azad 106 x</span>, we develop enterprise-grade blockchain applications that enhance security, streamline operations, and unlock new opportunities.
+            Blockchain technology is redefining industries through decentralized, secure, and transparent solutions. At <span class="font-bold text-secondary">CybertechieAzadSol</span>, we develop enterprise-grade blockchain applications that enhance security, streamline operations, and unlock new opportunities.
           </p>
           <p>
             Our expertise spans smart contracts, decentralized applications, and cryptocurrency solutions designed to future-proof your business.
@@ -393,7 +393,7 @@ export const services = [
             Crafting Immersive Gaming Experiences
           </h2>
           <p>
-            In the $200+ billion gaming industry, standing out requires both technical excellence and creative vision. At <span class="font-bold text-secondary">Azad 106 x</span>, we develop games that captivate players across mobile, console, PC, and emerging platforms.
+            In the $200+ billion gaming industry, standing out requires both technical excellence and creative vision. At <span class="font-bold text-secondary">CybertechieAzadSol</span>, we develop games that captivate players across mobile, console, PC, and emerging platforms.
           </p>
           <p>
             From concept to launch, we combine cutting-edge technology with engaging storytelling to create memorable gaming experiences.
@@ -490,7 +490,7 @@ export const services = [
             Intelligent Automation for Modern Businesses
           </h2>
           <p>
-            Robotic Process Automation (RPA) is revolutionizing enterprise operations by automating repetitive tasks with digital workers. At <span class="font-bold text-secondary">Azad 106 x</span>, we implement RPA solutions that deliver:
+            Robotic Process Automation (RPA) is revolutionizing enterprise operations by automating repetitive tasks with digital workers. At <span class="font-bold text-secondary">CybertechieAzadSol</span>, we implement RPA solutions that deliver:
           </p>
           <ul class="list-disc pl-6">
             <li>70% reduction in process handling time</li>
@@ -583,7 +583,7 @@ export const services = [
             AI-Powered Business Transformation
           </h2>
           <p>
-            Artificial Intelligence is revolutionizing industries by enabling data-driven decisions, automating complex processes, and creating intelligent customer experiences. At <span class="font-bold text-secondary">Azad 106 x</span>, we develop tailored AI solutions that deliver measurable business impact.
+            Artificial Intelligence is revolutionizing industries by enabling data-driven decisions, automating complex processes, and creating intelligent customer experiences. At <span class="font-bold text-secondary">CybertechieAzadSol</span>, we develop tailored AI solutions that deliver measurable business impact.
           </p>
           <p>
             Our AI systems help companies reduce costs by 30-50% while improving accuracy and scalability across operations.
@@ -680,7 +680,7 @@ export const services = [
             Data-Driven Decision Making with ML
           </h2>
           <p>
-            Machine learning transforms raw data into competitive advantage. At <span class="font-bold text-secondary">Azad 106 x</span>, we build production-ready ML models that help businesses predict outcomes, automate decisions, and discover hidden patterns.
+            Machine learning transforms raw data into competitive advantage. At <span class="font-bold text-secondary">CybertechieAzadSol</span>, we build production-ready ML models that help businesses predict outcomes, automate decisions, and discover hidden patterns.
           </p>
           <p>
             Our models achieve 95%+ accuracy in production environments through rigorous testing and optimization.
@@ -777,7 +777,7 @@ export const services = [
             Cloud Transformation for Digital Business
           </h2>
           <p>
-            Cloud computing delivers unprecedented flexibility, scalability, and cost efficiency. At <span class="font-bold text-secondary">Azad 106 x</span>, we architect cloud-native solutions across AWS, Azure, and GCP that help businesses:
+            Cloud computing delivers unprecedented flexibility, scalability, and cost efficiency. At <span class="font-bold text-secondary">CybertechieAzadSol</span>, we architect cloud-native solutions across AWS, Azure, and GCP that help businesses:
           </p>
           <ul class="list-disc pl-6">
             <li>Reduce infrastructure costs by 40-60%</li>
@@ -876,7 +876,7 @@ export const services = [
             Modern Web Solutions for Digital Growth
           </h2>
           <p>
-            Your website is the digital face of your business. At <span class="font-bold text-secondary">Azad 106 x</span>, we craft responsive, high-converting websites that combine stunning design with cutting-edge technology.
+            Your website is the digital face of your business. At <span class="font-bold text-secondary">CybertechieAzadSol</span>, we craft responsive, high-converting websites that combine stunning design with cutting-edge technology.
           </p>
           <p>
             Our web solutions deliver 3x faster load times and 40% higher conversion rates than industry averages.
@@ -973,7 +973,7 @@ export const services = [
             Unlock the Power of Your Data
           </h2>
           <p>
-            At <span class="font-bold text-secondary">Azad 106 x</span>, we transform raw data into strategic insights using advanced analytics and machine learning. Our solutions help you forecast trends, identify patterns, and make informed decisions with confidence.
+            At <span class="font-bold text-secondary">CybertechieAzadSol</span>, we transform raw data into strategic insights using advanced analytics and machine learning. Our solutions help you forecast trends, identify patterns, and make informed decisions with confidence.
           </p>
           <ul class="list-disc pl-6">
             <li>Boost operational efficiency by up to 35%</li>
@@ -1026,7 +1026,7 @@ export const services = [
             Language Intelligence for Smarter Systems
           </h2>
           <p>
-            At <span class="font-bold text-secondary">Azad 106 x</span>, our NLP solutions enhance your ability to interact with and analyze human language. We integrate contextual understanding, sentiment analysis, and language generation to power smarter interfaces.
+            At <span class="font-bold text-secondary">CybertechieAzadSol</span>, our NLP solutions enhance your ability to interact with and analyze human language. We integrate contextual understanding, sentiment analysis, and language generation to power smarter interfaces.
           </p>
           <ul class="list-disc pl-6">
             <li>Chatbots with natural dialogue flow</li>
@@ -1079,7 +1079,7 @@ export const services = [
             A Smarter Path to the Cloud
           </h2>
           <p>
-            <span class="font-bold text-secondary">Azad 106 x</span> helps businesses migrate workloads to the cloud with robust planning, zero data loss, and minimal disruption. We tailor migration strategies to align with your business goals.
+            <span class="font-bold text-secondary">CybertechieAzadSol</span> helps businesses migrate workloads to the cloud with robust planning, zero data loss, and minimal disruption. We tailor migration strategies to align with your business goals.
           </p>
           <ul class="list-disc pl-6">
             <li>99.99% uptime during migration</li>
@@ -1133,7 +1133,7 @@ export const services = [
           Design That Delivers Delight
         </h2>
         <p>
-          <span class="font-bold text-secondary">Azad 106 x</span> designs digital experiences that are beautiful, intuitive, and conversion-focused. From research to prototypes, we craft every touchpoint with user empathy and brand alignment.
+          <span class="font-bold text-secondary">CybertechieAzadSol</span> designs digital experiences that are beautiful, intuitive, and conversion-focused. From research to prototypes, we craft every touchpoint with user empathy and brand alignment.
         </p>
         <ul class="list-disc pl-6">
           <li>30% increase in user retention</li>
