@@ -41,7 +41,7 @@ const MarkerWithAutoPopup = ({ position, content }) => {
 };
 
 const MapComponent = () => {
-  const location = useMemo(() => [19.228762, 73.126846], []);
+  const location = useMemo(() => [19.314092, 84.77222], []);
   const mapRef = useRef();
 
   useEffect(() => {

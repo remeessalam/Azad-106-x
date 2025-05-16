@@ -1,5 +1,5 @@
 import React from "react";
-import { logo, services } from "../../data/constant";
+import { companyDetails, logo, services } from "../../data/constant";
 import { websiteLinks } from "./Header";
 import { Link } from "react-router-dom";
 import { FaFacebookF, FaInstagram, FaLinkedinIn } from "react-icons/fa";
@@ -48,28 +48,42 @@ const Footer = () => {
             </ul>
           </div>
           <div className="flex gap-4 lg:justify-end">
-            <Link className="w-7 h-7 group flex hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black">
+            <Link
+              to={companyDetails.linkedin}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-7 h-7 group flex hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black"
+            >
               <FaLinkedinIn
                 className="fill-black group-hover:fill-white"
                 size={16}
                 strokeWidth={1}
               />
             </Link>
-            <Link className="w-7 h-7 flex group hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black">
+            <Link
+              to={companyDetails.instagram}
+              className="w-7 h-7 flex group hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black"
+            >
               <FaInstagram
                 className="fill-black text-secondary group-hover:fill-white"
                 size={16}
                 strokeWidth={1}
               />
             </Link>
-            <Link className="w-7 h-7 flex group hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black">
+            <Link
+              to={companyDetails.facebook}
+              className="w-7 h-7 flex group hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black"
+            >
               <FaFacebookF
                 className="fill-black group-hover:fill-white"
                 size={16}
                 strokeWidth={1}
               />
             </Link>
-            <Link className="w-7 h-7 flex group hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black">
+            <Link
+              to={companyDetails.twitter}
+              className="w-7 h-7 flex group hover:bg-secondary transition-all duration-200 justify-center items-center rounded-full border border-black"
+            >
               <FaXTwitter
                 className="fill-black group-hover:fill-white"
                 size={16}

@@ -33,9 +33,12 @@ export const companyDetails = {
   email: "stoneageai73@gmail.com",
   phone: "+91-8456895594",
   phone2: "+91-7978995594",
-  address: `Sastri Nagar 1st lane
-Near utkal hall,
-Berhampur, Odisha`,
+  address: `Sastri Nagar 1st Ln, near Utkal Cinema Road,Brahmapur, Odisha 760002`,
+  instagram: "https://www.instagram.com/azad106ai?igsh=MWkyNHh0aWhjbG96bA==",
+  facebook: "https://www.facebook.com/share/19sYiuNW44/",
+  twitter: "https://x.com/Azad106ai?t=tfpDmOpnRXsh1m-GjICW3A&s=08",
+  linkedin:
+    "https://www.linkedin.com/in/azad-x-621609356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 };
 
 export const testimonials = [

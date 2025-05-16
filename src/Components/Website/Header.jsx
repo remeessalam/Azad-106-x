@@ -39,28 +39,48 @@ const Header = () => {
             </div>
           </div>
           <div className="flex items-center gap-4">
-            <Link className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-secondary">
+            <Link
+              to={companyDetails.linkedin}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-secondary"
+            >
               <FaLinkedinIn
                 className="fill-secondary"
                 size={16}
                 strokeWidth={1}
               />
             </Link>
-            <Link className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-secondary">
+            <Link
+              to={companyDetails.instagram}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-secondary"
+            >
               <FaInstagram
                 className="fill-secondary text-secondary"
                 size={16}
                 strokeWidth={1}
               />
             </Link>
-            <Link className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-secondary">
+            <Link
+              to={companyDetails.facebook}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-secondary"
+            >
               <FaFacebookF
                 className="fill-secondary"
                 size={16}
                 strokeWidth={1}
               />
             </Link>
-            <Link className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-secondary">
+            <Link
+              to={companyDetails.twitter}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-7 h-7 flex hover:bg-primary transition-all duration-200 justify-center items-center rounded-full border border-secondary"
+            >
               <FaXTwitter
                 className="fill-secondary"
                 size={16}
