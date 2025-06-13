@@ -11,6 +11,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import { Toaster } from "react-hot-toast";
 import ThankYou from "./Components/Website/ThankYou";
+import WhatsAppIcon from "./Components/WhatsAppIcon";
 
 const Home = lazy(() => import("./Pages/Home"));
 const AboutUs = lazy(() => import("./Pages/AboutUs"));
@@ -33,6 +34,8 @@ function App() {
     <BrowserRouter>
       <ScrollToTopButton />
       <ScrollToTop />
+      <WhatsAppIcon />
+
       <Toaster
         position="top-bottom"
         toastOptions={{

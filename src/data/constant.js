@@ -30,6 +30,8 @@ import { AiFillAppstore } from "react-icons/ai";
 export { logo };
 
 export const companyDetails = {
+  whatsLink:
+    "https://api.whatsapp.com/send/?phone=8456895594&text=Hii%2C%20Team%20AzaDsolutions%2C%20l%20am%20interested%20in%20your%20service%20please%20assist%20me&app_absent=0",
   email: "stoneageai73@gmail.com",
   phone: "+91-8456895594",
   phone2: "+91-7978995594",
